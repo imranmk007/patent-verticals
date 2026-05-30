@@ -1,6 +1,5 @@
 # IP Visualization
 
-t
 pulls patent data from [HUPD](https://huggingface.co/datasets/HUPD/hupd) and makes some charts to show it's a good corpus for Mantis (diversity across IPC categories, accept/rejec label balance, text length distributions etc.)
 
 ## files
