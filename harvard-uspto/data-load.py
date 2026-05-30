@@ -1,5 +1,6 @@
 import json
 import math
+import os
 import ssl
 import tarfile
 import urllib.request
@@ -13,7 +14,7 @@ SSL_CONTEXT = ssl.create_default_context(cafile=certifi.where())
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 TARBALL = DATA_DIR / "sample-jan-2016.tar.gz"
-HF_TOKEN = ""
+HF_TOKEN = os.environ.get("HF_TOKEN", "")
 YEAR_URL = "https://huggingface.co/datasets/HUPD/hupd/resolve/main/data/{year}.tar.gz"
 RANDOM_STATE = 42
 
