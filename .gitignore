@@ -3,6 +3,7 @@ data/
 __pycache__/
 *.pyc
 .DS_Store
+.env
 lens-db/final-data/lens-raw.jsonl
 lens-db/final-data/lens-db-clean.json
 lens-db/final-data/lens-db-translated.json
