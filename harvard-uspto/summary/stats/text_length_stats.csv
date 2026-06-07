@@ -1,7 +1,0 @@
-field,pct_non_empty,mean_words,median_words,std_words,p90_words,max_words,mean_chars,median_chars
-title,100.0,7.9,7,4.5,14,44,58.2,54
-abstract,100.0,110.6,110,43.0,151,405,697.2,695
-claims,100.0,964.0,821,723.2,1655,11589,6079.1,5065
-background,94.6,482.7,345,584.1,1040,9290,3066.7,2187
-summary,93.3,741.8,415,1276.6,1624,22730,4651.0,2617
-full_description,100.0,8465.5,5998,8871.3,15435,131338,52867.8,36593
