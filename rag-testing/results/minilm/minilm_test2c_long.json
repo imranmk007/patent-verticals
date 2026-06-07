@@ -1,0 +1,128 @@
+{
+  "system": "minilm",
+  "query_file": "test2c_long.txt",
+  "index_time_ms": 3.9,
+  "query_time_ms": 1.22,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "score": 0.5458
+    },
+    {
+      "rank": 2,
+      "lens_id": "101-120-372-618-775",
+      "title": "Method and apparatus for detecting vulnerable atherosclerotic plaque",
+      "abstract": "Methods and devices are disclosed for detecting vulnerable atherosclerotic plaque, or plaque at risk of reducing blood flow in a vessel, by a identifying a region of elevated temperature along a living vessel wall. The disclosure that human atherosclerotic plaque with measurable temperature heteroge",
+      "ipc": [
+        "A61B5/00",
+        "A61B5/055",
+        "A61B8/12",
+        "A61B17/00",
+        "A61B17/22"
+      ],
+      "score": 0.5272
+    },
+    {
+      "rank": 3,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "score": 0.4759
+    },
+    {
+      "rank": 4,
+      "lens_id": "155-026-594-554-963",
+      "title": "Use of laser light and red-green-blue coloration to determine properties of back scattered light",
+      "abstract": "A surgical image acquisition system includes multiple illumination sources, each source emitting light at a specified wavelength, a light sensor to receive light reflected from a tissue sample illuminated by each of the illumination sources, and a computing system. The computer system may receive da",
+      "ipc": [
+        "G06T7/00",
+        "A61B1/04",
+        "A61B1/06",
+        "H04N9/64"
+      ],
+      "score": 0.4671
+    },
+    {
+      "rank": 5,
+      "lens_id": "024-313-638-018-989",
+      "title": "PREDICTIVE METHOD USING COLORIMETRIC ANALYSIS OF BODILY FLUIDS",
+      "abstract": "A method for predicting risk of a future disease condition includes the steps of collecting and transporting bodily fluid to at least one colorimetric analyte sensing element, detecting the presence of bodily fluid, collecting optical data relating to the at least one colorimetric analyte sensing el",
+      "ipc": [
+        "G01N21/78",
+        "C12Q1/54",
+        "G01N21/31"
+      ],
+      "score": 0.4636
+    },
+    {
+      "rank": 6,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "score": 0.4574
+    },
+    {
+      "rank": 7,
+      "lens_id": "027-510-449-177-931",
+      "title": "imaging device, signal processing device, and skin diagnostic system",
+      "abstract": "In general-purpose imaging devices that do not have a mechanical drive mechanism, it is a signal processing device that can obtain a good image with reduced tecari components. The imaging device is equipped with the image acquisition unit to obtain the input image signal, and the signal processing u",
+      "ipc": [
+        "H04N23/76"
+      ],
+      "score": 0.4563
+    },
+    {
+      "rank": 8,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 0.429
+    },
+    {
+      "rank": 9,
+      "lens_id": "040-209-795-856-871",
+      "title": "SYSTEM AND METHOD FOR MEASURING ANALYTE CONCENTRATION IN BODILY FLUIDS",
+      "abstract": "A system and kit for measuring analyte concentration in a bodily fluid include a durable component, at least one indicator component including an indicator zone, and at least one moisture sensor. The kit has multiple individually packaged indicator components. Methods of measuring analyte concentrat",
+      "ipc": [
+        "G01N21/78",
+        "A61F13/42",
+        "A61F13/49",
+        "C12Q1/26",
+        "C12Q1/28",
+        "G01N33/493"
+      ],
+      "score": 0.4233
+    },
+    {
+      "rank": 10,
+      "lens_id": "142-015-557-167-379",
+      "title": "INFRARED SLEEP MONITORING",
+      "abstract": "Systems, devices, and methods for monitoring a person's sleep are described. Thermal images of a person sleeping can be captured using an infrared camera and processed to determine the body temperature of the person. A particular sleep stage and its duration can be determined using the body temperat",
+      "ipc": [
+        "A61B5/00",
+        "A61B5/01"
+      ],
+      "score": 0.4107
+    }
+  ]
+}

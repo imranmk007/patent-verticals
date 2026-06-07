@@ -1,0 +1,5 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+initial-datasets/lens-db/final-data/lens-db-translated.json filter=lfs diff=lfs merge=lfs -text
+initial-datasets/harvard-uspto/data/mantis_hupd.json filter=lfs diff=lfs merge=lfs -text
+initial-datasets/lens-db/final-data/lens-db-clean.json filter=lfs diff=lfs merge=lfs -text

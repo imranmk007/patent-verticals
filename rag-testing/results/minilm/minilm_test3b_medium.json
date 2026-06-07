@@ -1,0 +1,145 @@
+{
+  "system": "minilm",
+  "query_file": "test3b_medium.txt",
+  "index_time_ms": 3.9,
+  "query_time_ms": 1.21,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 0.6457
+    },
+    {
+      "rank": 2,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "score": 0.5863
+    },
+    {
+      "rank": 3,
+      "lens_id": "047-380-942-589-465",
+      "title": "Detection methods and devices",
+      "abstract": "This application discloses detection methods and devices in the field of detection techniques. This will be done by: responding to the placement of the hands of the user to be tested in the pre-set interactive area of the detection device, implementing the following detection steps: sending a teleco",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/026",
+        "A61B5/0531"
+      ],
+      "score": 0.514
+    },
+    {
+      "rank": 4,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "score": 0.5023
+    },
+    {
+      "rank": 5,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "score": 0.5002
+    },
+    {
+      "rank": 6,
+      "lens_id": "166-773-647-909-501",
+      "title": "USER INTERFACES FOR HEALTH MONITORING",
+      "abstract": "The present disclosure generally relates to user interfaces for health monitoring. Exemplary user interfaces for initial setup of health monitoring using a first electronic device and a second electronic device is described. Exemplary user interfaces for recording biometric information for use in he",
+      "ipc": [
+        "A61B5/332",
+        "A61B5/02",
+        "G06F1/16",
+        "G06F3/01",
+        "G06F3/0485",
+        "G06F9/451",
+        "G06T13/80"
+      ],
+      "score": 0.4697
+    },
+    {
+      "rank": 7,
+      "lens_id": "153-064-920-980-592",
+      "title": "Detection method and device",
+      "abstract": "The invention discloses a detection method and device, and relates to the technical field of detection. The specific implementation mode comprises the following steps that in response to the situationthat the two hands of a user to be detected are placed in a preset interaction area of the detection",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/026",
+        "A61B5/0531"
+      ],
+      "score": 0.4693
+    },
+    {
+      "rank": 8,
+      "lens_id": "055-128-765-435-777",
+      "title": "DEVICES, SYSTEMS, AND METHODS FOR PREDICTING BLOOD GLUCOSE LEVELS BASED ON A PERSONALIZED BLOOD GLUCOSE REGULATION MODEL",
+      "abstract": "The present disclosure provides devices, systems, and methods for optimizing blood glucose level regulation by predicting blood glucose levels based on personalized blood glucose regulation models. In some exemplary embodiments, a computer-implemented method of blood glucose level regulation include",
+      "ipc": [
+        "G09B19/00",
+        "A61B5/00",
+        "B60Q9/00",
+        "G06N20/00",
+        "G16H10/60",
+        "G16H20/60",
+        "G16H50/20",
+        "G16H50/50"
+      ],
+      "score": 0.467
+    },
+    {
+      "rank": 9,
+      "lens_id": "030-843-118-138-915",
+      "title": "SYSTEMS AND METHODS FOR PROCESSING AND TRANSMITTING SENSOR DATA",
+      "abstract": "Systems and methods for processing, transmitting and displaying data received from an analyte sensor, such as a glucose sensor, are disclosed. In an embodiment, a method for transmitting data between a first communication device associated with an analyte sensor and a second communication device con",
+      "ipc": [
+        "H04B5/00",
+        "A61B5/145",
+        "A61B5/1486",
+        "A61B5/1495",
+        "G01N27/327",
+        "H04W4/80",
+        "H04W12/06",
+        "H04W52/02",
+        "H04W76/14"
+      ],
+      "score": 0.4341
+    },
+    {
+      "rank": 10,
+      "lens_id": "027-414-160-252-70X",
+      "title": "NERVE STIMULATION METHODS FOR AVERTING IMMINENT ONSET OR EPISODE OF A DISEASE",
+      "abstract": "Devices, systems and methods are disclosed for treating a variety of diseases and disorders that are primarily or at least partially driven by an imbalance in neurotransmitters in the brain, such as asthma, COPD, depression, anxiety, epilepsy, fibromyalgia, and the like. The invention involves the u",
+      "ipc": [
+        "A61N1/04",
+        "A61N1/36"
+      ],
+      "score": 0.4301
+    }
+  ]
+}

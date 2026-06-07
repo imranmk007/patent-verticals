@@ -1,0 +1,136 @@
+{
+  "system": "minilm",
+  "query_file": "test3a_short.txt",
+  "index_time_ms": 3.9,
+  "query_time_ms": 1.32,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 0.6484
+    },
+    {
+      "rank": 2,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "score": 0.5868
+    },
+    {
+      "rank": 3,
+      "lens_id": "047-380-942-589-465",
+      "title": "Detection methods and devices",
+      "abstract": "This application discloses detection methods and devices in the field of detection techniques. This will be done by: responding to the placement of the hands of the user to be tested in the pre-set interactive area of the detection device, implementing the following detection steps: sending a teleco",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/026",
+        "A61B5/0531"
+      ],
+      "score": 0.5672
+    },
+    {
+      "rank": 4,
+      "lens_id": "153-064-920-980-592",
+      "title": "Detection method and device",
+      "abstract": "The invention discloses a detection method and device, and relates to the technical field of detection. The specific implementation mode comprises the following steps that in response to the situationthat the two hands of a user to be detected are placed in a preset interaction area of the detection",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/026",
+        "A61B5/0531"
+      ],
+      "score": 0.5366
+    },
+    {
+      "rank": 5,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "score": 0.509
+    },
+    {
+      "rank": 6,
+      "lens_id": "080-741-410-122-730",
+      "title": "SYSTEMS AND METHODS FOR DETERMINING TISSUE TYPE",
+      "abstract": "Ablation and visualization systems and methods to access quality of contact between a catheter and tissue are provided. In some embodiments, a method for monitoring tissue ablation of the present disclosure comprises advancing a distal tip of an ablation catheter to a tissue in need of ablation; ill",
+      "ipc": [
+        "A61B18/14",
+        "A61B17/00",
+        "A61B18/00",
+        "A61B18/02",
+        "A61B18/18",
+        "A61B18/22",
+        "A61B90/00"
+      ],
+      "score": 0.4923
+    },
+    {
+      "rank": 7,
+      "lens_id": "023-618-909-273-887",
+      "title": "BLOOD SENSOR ASSEMBLEY",
+      "abstract": "Devices used to sense physiologic blood parameters are disclosed. The devices may be configured to sense at least two physiologic blood parameters at substantially a common site of an extracorporeal perfusion circuit. The devices may include a pressure sensor and a temperature sensor. The temperatur",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/021"
+      ],
+      "score": 0.4868
+    },
+    {
+      "rank": 8,
+      "lens_id": "098-311-022-892-307",
+      "title": "Skin Regeneration Stimulation Device",
+      "abstract": "In order to promote skin regeneration, the device and method of stimulating the skin, it utilizes the complexion of electromagnetic radiation for surface vascular regeneration (e.g., vacuum treatment), cell regeneration (e.g., electromagnetic field in the electrostatic device) and the skin. In this ",
+      "ipc": [
+        "A61N1/32",
+        "A61B5/00",
+        "A61B5/053",
+        "A61H9/00",
+        "A61H39/00",
+        "A61N1/04",
+        "A61N1/36"
+      ],
+      "score": 0.4864
+    },
+    {
+      "rank": 9,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "score": 0.482
+    },
+    {
+      "rank": 10,
+      "lens_id": "022-255-347-997-165",
+      "title": "Warning indicator for drug delivery devices",
+      "abstract": "One drug delivery device consists of: the shell; the needle, which has a retreat position and an extension position; the subject of the thruster of the needle, which is contained in the shell and is configured to move from the pre-use position to the use position and the post-use position, where the",
+      "ipc": [
+        "A61M5/32"
+      ],
+      "score": 0.4697
+    }
+  ]
+}

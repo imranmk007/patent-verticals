@@ -7,3 +7,7 @@ __pycache__/
 lens-db/final-data/lens-raw.jsonl
 lens-db/final-data/lens-db-clean.json
 lens-db/final-data/lens-db-translated.json
+
+# large dataset files tracked via git-lfs (see .gitattributes)
+# only exclude the raw unprocessed source file
+initial-datasets/lens-db/final-data/lens-raw.jsonl
