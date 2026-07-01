@@ -1,0 +1,161 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test3a_short.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "B60R21/00",
+    "F02M37/00",
+    "E05B65/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 82.93,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "003-641-009-553-437",
+      "title": "Copyright (C) 2015 SHINSEGAE. All Rights Reserved.",
+      "abstract": "This invention is about how to measure the amount of red concentrated concentrates in the enzymes that have been mixed with the hydrogen peroxide and the amount of diethylamine in the form of p-nitrophenyl glucopyranosid (p-NPG).",
+      "ipc": [],
+      "cos_raw": 0.6538,
+      "cos_norm": 0.7512,
+      "ipc_score": null,
+      "final": 0.7512
+    },
+    {
+      "rank": 2,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "cos_raw": 0.7621,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 3,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "cos_raw": 0.7176,
+      "cos_norm": 0.8979,
+      "ipc_score": 0.0,
+      "final": 0.6285
+    },
+    {
+      "rank": 4,
+      "lens_id": "090-999-646-522-627",
+      "title": "EMISSION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide an emission device and the like that improve detection accuracy of, for example, vehicles.SOLUTION: A laser inter-vehicle range-finder is mounted to an own vehicle. The laser inter-vehicle range-finder is configured to emit light in an emission direction that is forw",
+      "ipc": [
+        "G01S7/481",
+        "B60R21/00",
+        "G01C3/06",
+        "G01S7/484",
+        "G01S17/93"
+      ],
+      "cos_raw": 0.5275,
+      "cos_norm": 0.461,
+      "ipc_score": 1.0,
+      "final": 0.6227
+    },
+    {
+      "rank": 5,
+      "lens_id": "119-064-947-134-115",
+      "title": "Circuit Breaker",
+      "abstract": "This instrument is mainly used for circuit breakers and is used for circuit breakers to measure electric currents. When an abnormality is\u691c\u51fa in the measurement data, the data is reported to the preservationist, etc., and it is used to prevent breakage of the circuit breaker. As shown in the reference",
+      "ipc": [],
+      "cos_raw": 0.5895,
+      "cos_norm": 0.6034,
+      "ipc_score": null,
+      "final": 0.6034
+    },
+    {
+      "rank": 6,
+      "lens_id": "123-682-664-291-332",
+      "title": "COLLISION DETECTION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide a collision detection device that can accurately detect not only collision with a pedestrian but also collision with a two-wheel vehicle, etc.SOLUTION: A collision detection device that can detect collision with a bumper face 101 disposed on the front side of a vehic",
+      "ipc": [
+        "B60R21/00",
+        "B60R19/48",
+        "G01L5/00"
+      ],
+      "cos_raw": 0.5055,
+      "cos_norm": 0.4102,
+      "ipc_score": 1.0,
+      "final": 0.5872
+    },
+    {
+      "rank": 7,
+      "lens_id": "174-896-901-311-338",
+      "title": "SYSTEM AND METHOD FOR DETERMINING AT LEAST ONE VITAL SIGN OF A SUBJECT",
+      "abstract": "The present invention relates to a system and method for determining a vital sign of a subject. To improve the detection of electromagnetic radiation reflected from or transmitted through skin of a subject (110) at least two differently modulated radiation sources (112, 114) are used. For both camer",
+      "ipc": [
+        "A61B5/024",
+        "A61B5/1455"
+      ],
+      "cos_raw": 0.6871,
+      "cos_norm": 0.8277,
+      "ipc_score": 0.0,
+      "final": 0.5794
+    },
+    {
+      "rank": 8,
+      "lens_id": "115-700-024-175-137",
+      "title": "System and Method of Battery Monitoring",
+      "abstract": "It is herein described a battery monitoring system, in particular for a vehicle battery, which comprises the steps of: calculating, based on the battery voltage (1), the parameters of the battery state of health (SoH), battery state of charge (SoC) and stand-by current (IOD); comparing the battery s",
+      "ipc": [
+        "B60L11/18",
+        "B60L3/12",
+        "B60R16/033",
+        "G01R31/36",
+        "H01M10/06",
+        "H01M10/48"
+      ],
+      "cos_raw": 0.5931,
+      "cos_norm": 0.6118,
+      "ipc_score": 0.5,
+      "final": 0.5782
+    },
+    {
+      "rank": 9,
+      "lens_id": "138-074-812-139-62X",
+      "title": "SYSTEMS AND METHODS FOR ADAPTING ACTIVATION TIMING OF ALERTS",
+      "abstract": "System, methods, and other embodiments described herein relate to alerting a passenger about hazards when exiting a subject vehicle. In one embodiment, a method includes identifying an initial target and a subsequent target according to sensor data about a surrounding environment of the subject vehi",
+      "ipc": [
+        "E05C17/00",
+        "B60Q1/52",
+        "B60Q5/00",
+        "B60Q9/00",
+        "B60R21/015",
+        "E05B77/14"
+      ],
+      "cos_raw": 0.533,
+      "cos_norm": 0.4735,
+      "ipc_score": 0.8,
+      "final": 0.5714
+    },
+    {
+      "rank": 10,
+      "lens_id": "107-061-468-452-133",
+      "title": "Thermal Imaging System",
+      "abstract": "Support structures for positioning sensors on a physiologic tunnel for measuring physical, chemical and biological parameters of the body and to produce an action according to the measured value of the parameters. The support structure includes a sensor fitted on the support structures using a speci",
+      "ipc": [
+        "H04N7/18",
+        "B60H1/00"
+      ],
+      "cos_raw": 0.6427,
+      "cos_norm": 0.7258,
+      "ipc_score": 0.2,
+      "final": 0.568
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-clean/test1b_software.json",
+  "variant": "clean",
+  "query_ipc": [
+    "G06N20/00",
+    "G06N3/098",
+    "H04L9/40"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 81.5,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "177-559-383-000-872",
+      "title": "UPDATING MACHINE LEARNING TRAINING DATA USING GRAPHICAL INPUTS",
+      "abstract": "Techniques are disclosed for using a machine learning model to identify and present a ranked array of interface elements representing entities. The location of individual interface elements within the ranked array of interface elements is based on a level of match between entity attributes and a set",
+      "ipc": [
+        "G06N20/00",
+        "G06N5/04"
+      ],
+      "cos_raw": 0.7452,
+      "cos_norm": 0.9499,
+      "ipc_score": 1.0,
+      "final": 0.965
+    },
+    {
+      "rank": 2,
+      "lens_id": "171-639-588-674-362",
+      "title": "EFFICIENT DATABASE MACHING LEARNING VERIFICATION",
+      "abstract": "An example operation may include one or more of generating, by a training participant client comprising a training dataset, a plurality of transaction proposals that each correspond to a training iteration for machine learning model training related to stochastic gradient descent, the machine learni",
+      "ipc": [
+        "G06F16/27",
+        "G06F21/62",
+        "G06F21/64",
+        "G06N20/00"
+      ],
+      "cos_raw": 0.7446,
+      "cos_norm": 0.9484,
+      "ipc_score": 1.0,
+      "final": 0.9639
+    },
+    {
+      "rank": 3,
+      "lens_id": "039-280-787-398-395",
+      "title": "Distributed computing system for benefits processing using patient-centric profiling and machine learning",
+      "abstract": "A computing system enables individuals and organizations to self-insure a benefit, e.g., a dental plan benefit. The system leverages a patient-centric data construct that evolves in a multi-dimensional manner as a patient continuously interacts with the system, its providers, participating organizat",
+      "ipc": [
+        "G06Q40/08",
+        "G06N20/00",
+        "G06Q10/10",
+        "G16H10/60"
+      ],
+      "cos_raw": 0.7439,
+      "cos_norm": 0.9466,
+      "ipc_score": 1.0,
+      "final": 0.9626
+    },
+    {
+      "rank": 4,
+      "lens_id": "012-642-432-938-642",
+      "title": "AUTOMATED MACHINE LEARNING TAGGING AND OPTIMIZATION OF REVIEW PROCEDURES",
+      "abstract": "Techniques for machine learning optimization are provided. A video comprising a plurality of segments is received, and a first segment of the plurality of segments is processed with a machine learning (ML) model to generate a plurality of tags, where each of the plurality of tags indicates presence ",
+      "ipc": [
+        "G06N20/00",
+        "G06K9/00",
+        "G06K9/62"
+      ],
+      "cos_raw": 0.7347,
+      "cos_norm": 0.923,
+      "ipc_score": 1.0,
+      "final": 0.9461
+    },
+    {
+      "rank": 5,
+      "lens_id": "099-251-564-736-493",
+      "title": "Distributed Adversarial Training for Robust Deep Neural Networks",
+      "abstract": "Scalable distributed adversarial training techniques for robust deep neural networks are provided. In one aspect, a method for adversarial training of a deep neural network-based model by distributed computing machines M includes, by distributed computing machines M: obtaining adversarial perturbati",
+      "ipc": [
+        "G06N3/08",
+        "G06N3/04"
+      ],
+      "cos_raw": 0.7646,
+      "cos_norm": 1.0,
+      "ipc_score": 0.8,
+      "final": 0.94
+    },
+    {
+      "rank": 6,
+      "lens_id": "094-401-942-899-919",
+      "title": "Systems and methods for determining price bands and user price affinity predictions using machine learning architectures and techniques",
+      "abstract": "Systems and methods including one or more processors and one or more non-transitory storage devices storing computing instructions configured to run on the one or more processors and perform acts of: providing a machine learning architecture that is configured to evaluate expensiveness of items rela",
+      "ipc": [
+        "G06Q30/00",
+        "G06F16/9538",
+        "G06N20/00",
+        "G06Q30/0251",
+        "G06Q30/0283",
+        "G06Q30/0601"
+      ],
+      "cos_raw": 0.7263,
+      "cos_norm": 0.9014,
+      "ipc_score": 1.0,
+      "final": 0.9309
+    },
+    {
+      "rank": 7,
+      "lens_id": "019-841-670-180-714",
+      "title": "Machine Learning Training Device",
+      "abstract": "A machine learning training device having a clustering device configured to group machine learning training requests into a consolidated training block. The clustering device includes an isomorphism engine and an energy estimator configured to construct the consolidated training block based upon an ",
+      "ipc": [
+        "G06N20/00",
+        "G06K9/62"
+      ],
+      "cos_raw": 0.7262,
+      "cos_norm": 0.9011,
+      "ipc_score": 1.0,
+      "final": 0.9308
+    },
+    {
+      "rank": 8,
+      "lens_id": "141-932-671-866-087",
+      "title": "OPTIMIZING ACCURACY OF MACHINE LEARNING ALGORITHMS FOR MONITORING INDUSTRIAL MACHINE OPERATION",
+      "abstract": "A system and method for a method for optimizing machine learning algorithms for monitoring industrial machine operation, including: monitoring at least one industrial machine behavioral model of at least one industrial machine; identifying at least a first ambiguous segment of the at least one indus",
+      "ipc": [
+        "G06N20/00",
+        "G06N5/04"
+      ],
+      "cos_raw": 0.7238,
+      "cos_norm": 0.8948,
+      "ipc_score": 1.0,
+      "final": 0.9263
+    },
+    {
+      "rank": 9,
+      "lens_id": "155-800-071-487-124",
+      "title": "Valid database machine learning validation",
+      "abstract": "Examples may include one or more of the following: multi-service proposals are generated by the training participants ' client, including the training set, each of which corresponds to the training iterative for machine learning model training related to a random gradient decline, the machine learni",
+      "ipc": [
+        "G06F16/27",
+        "G06F21/62",
+        "G06F21/64",
+        "G06N20/00"
+      ],
+      "cos_raw": 0.7226,
+      "cos_norm": 0.8917,
+      "ipc_score": 1.0,
+      "final": 0.9242
+    },
+    {
+      "rank": 10,
+      "lens_id": "094-736-996-149-288",
+      "title": "A lightweight privacy protection ViT reasoning framework based on secret sharing",
+      "abstract": "The invention revealed a framework of light-weight privacy protection ViT reasoning based on secret sharing, including embedded layers, taxonomy layers and Transform encoders, where the embedded layers are used to segment incoming images, to create additional position code information and classes to",
+      "ipc": [
+        "G06V10/96",
+        "G06F21/62",
+        "G06N3/0455",
+        "G06N5/043",
+        "G06V10/44",
+        "G06V10/764",
+        "G06V10/82",
+        "G06V10/94",
+        "H04L9/08",
+        "H04L9/40"
+      ],
+      "cos_raw": 0.7177,
+      "cos_norm": 0.8792,
+      "ipc_score": 1.0,
+      "final": 0.9154
+    }
+  ]
+}

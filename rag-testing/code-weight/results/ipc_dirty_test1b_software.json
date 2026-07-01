@@ -1,0 +1,164 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test1b_software.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "A01D34/00",
+    "B65D85/00",
+    "E21B43/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 72.25,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "135-942-983-405-003",
+      "title": "System and method for oil and gas predictive analytics",
+      "abstract": "Embodiments disclosed herein generally relate to a method and system for oil and gas predictive analytics. A computer system receives a set of production information for a well located in a region. The computing system generates a set of general reference groups comprising one or more reference well",
+      "ipc": [
+        "G06N5/048",
+        "E21B43/00",
+        "G06F30/20",
+        "G06F111/10"
+      ],
+      "cos_raw": 0.7094,
+      "cos_norm": 0.8576,
+      "ipc_score": 1.0,
+      "final": 0.9003
+    },
+    {
+      "rank": 2,
+      "lens_id": "094-195-899-831-307",
+      "title": "Dual ring stuffing box",
+      "abstract": "A system includes a fluid end having a fluid end face and a recess extending toward a base. The system also includes a pressure ring extending from the fluid end face, the pressure ring having a pressure ring bore diameter larger than a fluid end bore diameter. The system further includes an adjacen",
+      "ipc": [
+        "F16J15/18",
+        "E21B43/26"
+      ],
+      "cos_raw": 0.6358,
+      "cos_norm": 0.668,
+      "ipc_score": 0.8,
+      "final": 0.7076
+    },
+    {
+      "rank": 3,
+      "lens_id": "099-251-564-736-493",
+      "title": "Distributed Adversarial Training for Robust Deep Neural Networks",
+      "abstract": "Scalable distributed adversarial training techniques for robust deep neural networks are provided. In one aspect, a method for adversarial training of a deep neural network-based model by distributed computing machines M includes, by distributed computing machines M: obtaining adversarial perturbati",
+      "ipc": [
+        "G06N3/08",
+        "G06N3/04"
+      ],
+      "cos_raw": 0.7646,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 4,
+      "lens_id": "058-312-590-116-561",
+      "title": "System and methods for real time linkage between harvest environment and marketplace",
+      "abstract": "Systems and methods are provided for directly linking a harvest environment using precision farming techniques to the marketplace. It is a feature of this invention that properties of crops are evaluated \"on-the-move,\" during the harvest thereof, and are made known to users in the harvest environmen",
+      "ipc": [
+        "A01B79/00",
+        "A01D41/127",
+        "A01D91/00",
+        "G06Q30/06"
+      ],
+      "cos_raw": 0.6735,
+      "cos_norm": 0.7653,
+      "ipc_score": 0.5,
+      "final": 0.6857
+    },
+    {
+      "rank": 5,
+      "lens_id": "077-171-363-765-441",
+      "title": "System and Methods for Developing and Deploying Oil Well Models to Predict Wax/Hydrate Buildups for Oil Well Optimization",
+      "abstract": "A method and system for estimating wax or hydrate deposits is desirable for the oil industry and important for assuring flow conditions and production, avoiding downtime, and reducing or preventing costly interventions. The method and system disclosed herein use artificial intelligence and machine l",
+      "ipc": [
+        "E21B47/00",
+        "G06N5/04",
+        "G06N20/00"
+      ],
+      "cos_raw": 0.6725,
+      "cos_norm": 0.7626,
+      "ipc_score": 0.5,
+      "final": 0.6838
+    },
+    {
+      "rank": 6,
+      "lens_id": "189-740-542-308-332",
+      "title": "Fiber optic wetmate",
+      "abstract": "Systems and methods are provided to facilitate connection of multiple stage completions. A first completion stage is deployed at a wellbore location. Subsequently, the next completion stage is moved downhole into engagement with the first completion stage. The completion stages each have communicati",
+      "ipc": [
+        "E21B17/02",
+        "E21B43/10",
+        "E21B47/12"
+      ],
+      "cos_raw": 0.622,
+      "cos_norm": 0.6325,
+      "ipc_score": 0.8,
+      "final": 0.6827
+    },
+    {
+      "rank": 7,
+      "lens_id": "026-395-477-289-335",
+      "title": "METHOD OF ACIDIZING A SUBTERRANEAN FORMATION COMPRISING A GELLING AGENT",
+      "abstract": "Methods of acidizing a subterranean formation penetrated by a wellbore that include the steps of (a) injecting into the wellbore at a pressure below subterranean formation fracturing pressure a treatment fluid having a first viscosity and including an aqueous acid and a gelling agent selected from t",
+      "ipc": [
+        "C09K8/72",
+        "C09K8/76",
+        "E21B43/26"
+      ],
+      "cos_raw": 0.62,
+      "cos_norm": 0.6273,
+      "ipc_score": 0.8,
+      "final": 0.6791
+    },
+    {
+      "rank": 8,
+      "lens_id": "129-075-643-685-600",
+      "title": "A Quantification Transponder for the production of lactose fat",
+      "abstract": "This practical new type of product is open to an emulsion-producing quantitative transporter, including a box, where the side of the box is plugged in with an entry tube, where the inner wall of the box is fitted with a extraction shield, where the upper fixed connection to the upper end of the box ",
+      "ipc": [
+        "B65D25/52",
+        "B65D25/02",
+        "B65D85/72",
+        "B65D85/80"
+      ],
+      "cos_raw": 0.619,
+      "cos_norm": 0.6248,
+      "ipc_score": 0.8,
+      "final": 0.6773
+    },
+    {
+      "rank": 9,
+      "lens_id": "052-922-826-783-580",
+      "title": "AUTOMATED DECISION-MAKING AND LEARNING TECHNIQUES WITH HETEROGENEOUS SIMULATORS IN COILED TUBING OPERATIONS",
+      "abstract": "Systems and methods presented herein facilitate coiled tubing operations, and generally relate to coiled tubing simulators that capture decades of expertise. In particular, the various simulators are formulated as a simulator graph search problem that enables optimal querying of the simulators (e.g.",
+      "ipc": [
+        "E21B19/22",
+        "G06F30/28"
+      ],
+      "cos_raw": 0.6646,
+      "cos_norm": 0.7423,
+      "ipc_score": 0.5,
+      "final": 0.6696
+    },
+    {
+      "rank": 10,
+      "lens_id": "177-559-383-000-872",
+      "title": "UPDATING MACHINE LEARNING TRAINING DATA USING GRAPHICAL INPUTS",
+      "abstract": "Techniques are disclosed for using a machine learning model to identify and present a ranked array of interface elements representing entities. The location of individual interface elements within the ranked array of interface elements is based on a level of match between entity attributes and a set",
+      "ipc": [
+        "G06N20/00",
+        "G06N5/04"
+      ],
+      "cos_raw": 0.7452,
+      "cos_norm": 0.9499,
+      "ipc_score": 0.0,
+      "final": 0.665
+    }
+  ]
+}

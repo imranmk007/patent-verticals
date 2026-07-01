@@ -1,0 +1,168 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test3c_long.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "B60R21/00",
+    "F02M37/00",
+    "E05B65/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 84.45,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "cos_raw": 0.7601,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 2,
+      "lens_id": "003-641-009-553-437",
+      "title": "Copyright (C) 2015 SHINSEGAE. All Rights Reserved.",
+      "abstract": "This invention is about how to measure the amount of red concentrated concentrates in the enzymes that have been mixed with the hydrogen peroxide and the amount of diethylamine in the form of p-nitrophenyl glucopyranosid (p-NPG).",
+      "ipc": [],
+      "cos_raw": 0.639,
+      "cos_norm": 0.6856,
+      "ipc_score": null,
+      "final": 0.6856
+    },
+    {
+      "rank": 3,
+      "lens_id": "090-999-646-522-627",
+      "title": "EMISSION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide an emission device and the like that improve detection accuracy of, for example, vehicles.SOLUTION: A laser inter-vehicle range-finder is mounted to an own vehicle. The laser inter-vehicle range-finder is configured to emit light in an emission direction that is forw",
+      "ipc": [
+        "G01S7/481",
+        "B60R21/00",
+        "G01C3/06",
+        "G01S7/484",
+        "G01S17/93"
+      ],
+      "cos_raw": 0.582,
+      "cos_norm": 0.5379,
+      "ipc_score": 1.0,
+      "final": 0.6765
+    },
+    {
+      "rank": 4,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "cos_raw": 0.7404,
+      "cos_norm": 0.9488,
+      "ipc_score": 0.0,
+      "final": 0.6642
+    },
+    {
+      "rank": 5,
+      "lens_id": "187-097-942-962-04X",
+      "title": "Reversing camera with reversing early warning function",
+      "abstract": "The utility model provides a reversing camera with a reversing early warning function. The reversing camera comprises a lens, a CMOS sensor electrically connected to the lens, a video buffer electrically connected to the CMOS sensor, and a flash module electrically connected to the CMOS sensor. The ",
+      "ipc": [
+        "B60R1/00",
+        "B60R21/0134",
+        "H04N5/225"
+      ],
+      "cos_raw": 0.5989,
+      "cos_norm": 0.5816,
+      "ipc_score": 0.8,
+      "final": 0.6471
+    },
+    {
+      "rank": 6,
+      "lens_id": "123-682-664-291-332",
+      "title": "COLLISION DETECTION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide a collision detection device that can accurately detect not only collision with a pedestrian but also collision with a two-wheel vehicle, etc.SOLUTION: A collision detection device that can detect collision with a bumper face 101 disposed on the front side of a vehic",
+      "ipc": [
+        "B60R21/00",
+        "B60R19/48",
+        "G01L5/00"
+      ],
+      "cos_raw": 0.5653,
+      "cos_norm": 0.4946,
+      "ipc_score": 1.0,
+      "final": 0.6462
+    },
+    {
+      "rank": 7,
+      "lens_id": "152-040-384-413-048",
+      "title": "Reversing camera with rear collision early warning function",
+      "abstract": "The utility model provides a reversing camera with a rear collision early warning function. The reversing camera comprises a lens, a CMOS sensor electrically connected to the lens, a video buffer electrically connected to the CMOS sensor, and a flash module electrically connected to the CMOS sensor.",
+      "ipc": [
+        "B60R1/00",
+        "B60R21/0134",
+        "H04N5/225"
+      ],
+      "cos_raw": 0.5926,
+      "cos_norm": 0.5652,
+      "ipc_score": 0.8,
+      "final": 0.6357
+    },
+    {
+      "rank": 8,
+      "lens_id": "107-061-468-452-133",
+      "title": "Thermal Imaging System",
+      "abstract": "Support structures for positioning sensors on a physiologic tunnel for measuring physical, chemical and biological parameters of the body and to produce an action according to the measured value of the parameters. The support structure includes a sensor fitted on the support structures using a speci",
+      "ipc": [
+        "H04N7/18",
+        "B60H1/00"
+      ],
+      "cos_raw": 0.6873,
+      "cos_norm": 0.8111,
+      "ipc_score": 0.2,
+      "final": 0.6278
+    },
+    {
+      "rank": 9,
+      "lens_id": "055-128-765-435-777",
+      "title": "DEVICES, SYSTEMS, AND METHODS FOR PREDICTING BLOOD GLUCOSE LEVELS BASED ON A PERSONALIZED BLOOD GLUCOSE REGULATION MODEL",
+      "abstract": "The present disclosure provides devices, systems, and methods for optimizing blood glucose level regulation by predicting blood glucose levels based on personalized blood glucose regulation models. In some exemplary embodiments, a computer-implemented method of blood glucose level regulation include",
+      "ipc": [
+        "G09B19/00",
+        "A61B5/00",
+        "B60Q9/00",
+        "G06N20/00",
+        "G16H10/60",
+        "G16H20/60",
+        "G16H50/20",
+        "G16H50/50"
+      ],
+      "cos_raw": 0.6844,
+      "cos_norm": 0.8036,
+      "ipc_score": 0.2,
+      "final": 0.6225
+    },
+    {
+      "rank": 10,
+      "lens_id": "138-074-812-139-62X",
+      "title": "SYSTEMS AND METHODS FOR ADAPTING ACTIVATION TIMING OF ALERTS",
+      "abstract": "System, methods, and other embodiments described herein relate to alerting a passenger about hazards when exiting a subject vehicle. In one embodiment, a method includes identifying an initial target and a subsequent target according to sensor data about a surrounding environment of the subject vehi",
+      "ipc": [
+        "E05C17/00",
+        "B60Q1/52",
+        "B60Q5/00",
+        "B60Q9/00",
+        "B60R21/015",
+        "E05B77/14"
+      ],
+      "cos_raw": 0.5769,
+      "cos_norm": 0.5245,
+      "ipc_score": 0.8,
+      "final": 0.6071
+    }
+  ]
+}

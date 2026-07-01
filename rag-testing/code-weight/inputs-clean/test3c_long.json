@@ -1,0 +1,8 @@
+{
+  "document": "So the basic idea is a wearable patch — no needles, no implanted sensor — that uses near-infrared light to continuously track blood glucose right through the skin. I want to map what's already been filed around this before going further. The core questions I keep coming back to are: how deep does NIR actually penetrate before the signal degrades into noise, and how do you isolate a glucose-specific absorption signature when hemoglobin, water, and lipids are all absorbing at overlapping wavelengths? That spectral interference problem seems like where most of the hard IP lives. Also curious about drift — any optical sensor pressed against skin is going to face sweat, temperature shifts, pressure artifacts.",
+  "ipc_classifications": [
+    "A61B5/1455",
+    "A61B5/145",
+    "G01N21/3577"
+  ]
+}

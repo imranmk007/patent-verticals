@@ -1,0 +1,162 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test2a_short.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "B60R21/00",
+    "F02M37/00",
+    "E05B65/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 72.43,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "003-641-009-553-437",
+      "title": "Copyright (C) 2015 SHINSEGAE. All Rights Reserved.",
+      "abstract": "This invention is about how to measure the amount of red concentrated concentrates in the enzymes that have been mixed with the hydrogen peroxide and the amount of diethylamine in the form of p-nitrophenyl glucopyranosid (p-NPG).",
+      "ipc": [],
+      "cos_raw": 0.6678,
+      "cos_norm": 0.7102,
+      "ipc_score": null,
+      "final": 0.7102
+    },
+    {
+      "rank": 2,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "cos_raw": 0.7846,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 3,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "cos_raw": 0.7592,
+      "cos_norm": 0.9369,
+      "ipc_score": 0.0,
+      "final": 0.6559
+    },
+    {
+      "rank": 4,
+      "lens_id": "123-682-664-291-332",
+      "title": "COLLISION DETECTION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide a collision detection device that can accurately detect not only collision with a pedestrian but also collision with a two-wheel vehicle, etc.SOLUTION: A collision detection device that can detect collision with a bumper face 101 disposed on the front side of a vehic",
+      "ipc": [
+        "B60R21/00",
+        "B60R19/48",
+        "G01L5/00"
+      ],
+      "cos_raw": 0.5722,
+      "cos_norm": 0.4731,
+      "ipc_score": 1.0,
+      "final": 0.6311
+    },
+    {
+      "rank": 5,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "cos_raw": 0.7384,
+      "cos_norm": 0.8854,
+      "ipc_score": 0.0,
+      "final": 0.6198
+    },
+    {
+      "rank": 6,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "cos_raw": 0.7365,
+      "cos_norm": 0.8807,
+      "ipc_score": 0.0,
+      "final": 0.6165
+    },
+    {
+      "rank": 7,
+      "lens_id": "107-061-468-452-133",
+      "title": "Thermal Imaging System",
+      "abstract": "Support structures for positioning sensors on a physiologic tunnel for measuring physical, chemical and biological parameters of the body and to produce an action according to the measured value of the parameters. The support structure includes a sensor fitted on the support structures using a speci",
+      "ipc": [
+        "H04N7/18",
+        "B60H1/00"
+      ],
+      "cos_raw": 0.7016,
+      "cos_norm": 0.7942,
+      "ipc_score": 0.2,
+      "final": 0.6159
+    },
+    {
+      "rank": 8,
+      "lens_id": "090-999-646-522-627",
+      "title": "EMISSION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide an emission device and the like that improve detection accuracy of, for example, vehicles.SOLUTION: A laser inter-vehicle range-finder is mounted to an own vehicle. The laser inter-vehicle range-finder is configured to emit light in an emission direction that is forw",
+      "ipc": [
+        "G01S7/481",
+        "B60R21/00",
+        "G01C3/06",
+        "G01S7/484",
+        "G01S17/93"
+      ],
+      "cos_raw": 0.5611,
+      "cos_norm": 0.4457,
+      "ipc_score": 1.0,
+      "final": 0.612
+    },
+    {
+      "rank": 9,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "cos_raw": 0.7296,
+      "cos_norm": 0.8634,
+      "ipc_score": 0.0,
+      "final": 0.6044
+    },
+    {
+      "rank": 10,
+      "lens_id": "123-367-219-113-01X",
+      "title": "Physiological signal monitoring device",
+      "abstract": "A physiological signal monitoring device includes a base, a biosensor mounted to the base and adapted to measure an analytical substance, and a transmitter. The 5 base includes a flexible base body and a first coupling structure. The first coupling structure is disposed on the base body. The transmi",
+      "ipc": [
+        "A61B5/1473"
+      ],
+      "cos_raw": 0.7264,
+      "cos_norm": 0.8555,
+      "ipc_score": 0.0,
+      "final": 0.5989
+    }
+  ]
+}

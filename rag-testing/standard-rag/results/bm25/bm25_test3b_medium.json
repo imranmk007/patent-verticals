@@ -1,0 +1,138 @@
+{
+  "system": "bm25",
+  "query_file": "test3b_medium.txt",
+  "index_time_ms": 202.1,
+  "query_time_ms": 35.02,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 92.9635
+    },
+    {
+      "rank": 2,
+      "lens_id": "179-839-611-547-108",
+      "title": "APPARATUS FOR MULTIMODAL ANALYSIS OF ALLERGIC REACTIONS IN SKIN TESTS AND A HYBRID METHOD FOR MULTISPECTRAL IMAGING OF ALLERGIC REACTIONS IN SKIN TESTS AND ITS USE FOR AUTOMATIC EVALUATION OF THE RESULTS OF THESE TESTS",
+      "abstract": "A multimodal apparatus for analysis of allergic reactions during skin tests and a method of multispectral imaging of allergic reactions in case of the type I and the type IV allergic reactions induced by performing skin allergy Prick and Patch tests combine thermal imaging with Laser Doppler flowmet",
+      "ipc": [
+        "A61B5/00",
+        "A61B5/01",
+        "A61B5/026"
+      ],
+      "score": 49.9603
+    },
+    {
+      "rank": 3,
+      "lens_id": "133-823-822-329-295",
+      "title": "COMPOSITIONS AND METHODS FOR TREATING SKIN CONDITIONS USING INFRARED LIGHT AND RESORCINOLS",
+      "abstract": "The present invention relates to compositions and methods for treating skin conditions using infrared light and resorcinols, and provides compositions, methods and kits for treating skin, which combine administration of a substituted resorcinol and infrared light having a peak wavelength of about 75",
+      "ipc": [
+        "A61K31/05",
+        "A61K9/00",
+        "A61N5/06",
+        "A61P17/18"
+      ],
+      "score": 48.133
+    },
+    {
+      "rank": 4,
+      "lens_id": "055-128-765-435-777",
+      "title": "DEVICES, SYSTEMS, AND METHODS FOR PREDICTING BLOOD GLUCOSE LEVELS BASED ON A PERSONALIZED BLOOD GLUCOSE REGULATION MODEL",
+      "abstract": "The present disclosure provides devices, systems, and methods for optimizing blood glucose level regulation by predicting blood glucose levels based on personalized blood glucose regulation models. In some exemplary embodiments, a computer-implemented method of blood glucose level regulation include",
+      "ipc": [
+        "G09B19/00",
+        "A61B5/00",
+        "B60Q9/00",
+        "G06N20/00",
+        "G16H10/60",
+        "G16H20/60",
+        "G16H50/20",
+        "G16H50/50"
+      ],
+      "score": 44.0923
+    },
+    {
+      "rank": 5,
+      "lens_id": "055-299-118-183-565",
+      "title": "Specifications",
+      "abstract": "The dual-band radio element and modular antenna array suitable for applying space communication. The dual-band radio elements above include a stack patch antenna for transmitting the RF signal of the 1 signal frequency band (e.g., S-band) and receiving the RF signal of the 2 signal frequency band (e",
+      "ipc": [
+        "H01Q9/04",
+        "H01Q3/36",
+        "H01Q5/50"
+      ],
+      "score": 40.9148
+    },
+    {
+      "rank": 6,
+      "lens_id": "174-896-901-311-338",
+      "title": "SYSTEM AND METHOD FOR DETERMINING AT LEAST ONE VITAL SIGN OF A SUBJECT",
+      "abstract": "The present invention relates to a system and method for determining a vital sign of a subject. To improve the detection of electromagnetic radiation reflected from or transmitted through skin of a subject (110) at least two differently modulated radiation sources (112, 114) are used. For both camer",
+      "ipc": [
+        "A61B5/024",
+        "A61B5/1455"
+      ],
+      "score": 37.6307
+    },
+    {
+      "rank": 7,
+      "lens_id": "003-775-610-201-612",
+      "title": "Dried product and a process for manufacturing the product",
+      "abstract": "A dried product of an extract from inflammatory rabbit skin inoculated with vaccinia virus having an inhibitory activity for the production of a kallikrein-like substance is produced by admixing the extract with a saccharide, sugar alcohol or ascorbic acid before reaching dryness, and then drying th",
+      "ipc": [
+        "A61K35/12",
+        "A61K35/36"
+      ],
+      "score": 37.3162
+    },
+    {
+      "rank": 8,
+      "lens_id": "063-417-654-240-791",
+      "title": "OIL-IN-WATER EMULSION SKIN COSMETICS",
+      "abstract": "PROBLEM TO BE SOLVED: To provide oil-in-water emulsion skin cosmetics excellent in effects such as spreading to the skin, skin compatibility, without stickiness, a feeling of emollient, a feeling of suppleness, as well as wrinkles and sagging improvement.SOLUTION: The present invention provides oil-",
+      "ipc": [
+        "A61K8/92",
+        "A61K8/06",
+        "A61K8/34",
+        "A61K8/73",
+        "A61K8/81",
+        "A61K8/891",
+        "A61K8/894",
+        "A61K8/895",
+        "A61Q19/00"
+      ],
+      "score": 36.2921
+    },
+    {
+      "rank": 9,
+      "lens_id": "060-068-920-292-18X",
+      "title": "Modular patient monitor",
+      "abstract": "A modular patient monitor provides a multipurpose, scalable solution for various patient monitoring applications. In an embodiment, a modular patient monitor utilizes multiple wavelength optical sensor and/or acoustic sensor technologies to provide blood constituent monitoring and acoustic respirati",
+      "ipc": [
+        "G08B23/00",
+        "G08B13/22"
+      ],
+      "score": 35.85
+    },
+    {
+      "rank": 10,
+      "lens_id": "006-114-826-859-051",
+      "title": "Artificial skin with structure and physical properties by age and method for manufacturing thereof",
+      "abstract": "This invention is related to artificial skin with age-specific structures and properties, which makes it easier to control the height, width and properties of internal structures, depending on the age of the human skin, it is related to the manufacturing method of artificial skin, which has effectiv",
+      "ipc": [
+        "C12N5/071",
+        "A61L27/38",
+        "A61L27/60",
+        "C12N5/077"
+      ],
+      "score": 35.6543
+    }
+  ]
+}

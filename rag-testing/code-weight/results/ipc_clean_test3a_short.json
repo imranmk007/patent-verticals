@@ -1,0 +1,186 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-clean/test3a_short.json",
+  "variant": "clean",
+  "query_ipc": [
+    "A61B5/1455",
+    "A61B5/145",
+    "G01N21/3577"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 69.93,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "cos_raw": 0.7621,
+      "cos_norm": 1.0,
+      "ipc_score": 1.0,
+      "final": 1.0
+    },
+    {
+      "rank": 2,
+      "lens_id": "174-896-901-311-338",
+      "title": "SYSTEM AND METHOD FOR DETERMINING AT LEAST ONE VITAL SIGN OF A SUBJECT",
+      "abstract": "The present invention relates to a system and method for determining a vital sign of a subject. To improve the detection of electromagnetic radiation reflected from or transmitted through skin of a subject (110) at least two differently modulated radiation sources (112, 114) are used. For both camer",
+      "ipc": [
+        "A61B5/024",
+        "A61B5/1455"
+      ],
+      "cos_raw": 0.6871,
+      "cos_norm": 0.8277,
+      "ipc_score": 1.0,
+      "final": 0.8794
+    },
+    {
+      "rank": 3,
+      "lens_id": "003-763-433-570-442",
+      "title": "Method for continuously monitoring a patient using a body-worn device and associated system for alarms/alerts",
+      "abstract": "The invention provides a body-worn monitor that measures a patient's vital signs (e.g. blood pressure, SpO2, heart rate, respiratory rate, and temperature) while simultaneously characterizing their activity state (e.g. resting, walking, convulsing, falling). The body-worn monitor processes this info",
+      "ipc": [
+        "A61B5/08",
+        "A61B5/00",
+        "A61B5/01",
+        "A61B5/02",
+        "A61B5/0205",
+        "A61B5/021",
+        "A61B5/022",
+        "A61B5/024",
+        "A61B5/0245",
+        "A61B5/11",
+        "A61B5/145",
+        "A61B5/332",
+        "A61B5/352",
+        "G06F19/00",
+        "G08B21/04"
+      ],
+      "cos_raw": 0.6679,
+      "cos_norm": 0.7835,
+      "ipc_score": 1.0,
+      "final": 0.8485
+    },
+    {
+      "rank": 4,
+      "lens_id": "030-843-118-138-915",
+      "title": "SYSTEMS AND METHODS FOR PROCESSING AND TRANSMITTING SENSOR DATA",
+      "abstract": "Systems and methods for processing, transmitting and displaying data received from an analyte sensor, such as a glucose sensor, are disclosed. In an embodiment, a method for transmitting data between a first communication device associated with an analyte sensor and a second communication device con",
+      "ipc": [
+        "H04B5/00",
+        "A61B5/145",
+        "A61B5/1486",
+        "A61B5/1495",
+        "G01N27/327",
+        "H04W4/80",
+        "H04W12/06",
+        "H04W52/02",
+        "H04W76/14"
+      ],
+      "cos_raw": 0.6518,
+      "cos_norm": 0.7467,
+      "ipc_score": 1.0,
+      "final": 0.8227
+    },
+    {
+      "rank": 5,
+      "lens_id": "094-064-539-974-013",
+      "title": "Method for monitoring an analyte, analyte sensor and analyte monitoring apparatus",
+      "abstract": "A method for monitoring an analyte within the body of a patient, an analyst sensor, and an analyte monitoring apparatus are presented here. In accordance with certain embodiments, the method for monitoring an analyte within the body of a patient includes implanting an analyte sensor at a sensor plac",
+      "ipc": [
+        "A61B5/1473",
+        "A61B5/00",
+        "A61B5/145",
+        "A61B5/1486",
+        "A61M5/142"
+      ],
+      "cos_raw": 0.6475,
+      "cos_norm": 0.7367,
+      "ipc_score": 1.0,
+      "final": 0.8157
+    },
+    {
+      "rank": 6,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "cos_raw": 0.6744,
+      "cos_norm": 0.7986,
+      "ipc_score": 0.8,
+      "final": 0.799
+    },
+    {
+      "rank": 7,
+      "lens_id": "094-448-366-733-66X",
+      "title": "Renal function analysis method and apparatus",
+      "abstract": "A method for measuring a glomerular filtration rate in a mammalian kidney comprises a source of reporter and marker fluorescent molecules. The fluorescent molecules are introduced into the blood stream of a mammalian subject. Over a period of time, a measurement of the intensities of the reporter an",
+      "ipc": [
+        "A61B5/1455",
+        "A61B1/00",
+        "A61B5/00",
+        "A61B5/20",
+        "A61K49/00",
+        "A61M5/00"
+      ],
+      "cos_raw": 0.6361,
+      "cos_norm": 0.7105,
+      "ipc_score": 1.0,
+      "final": 0.7974
+    },
+    {
+      "rank": 8,
+      "lens_id": "003-778-351-365-658",
+      "title": "Methods and apparatus for urodynamic analysis",
+      "abstract": "A method for monitoring bladder function in an animal having a bladder, the method including positioning of a light emitter and a light detector on the animal's skin adjacent to the animal's bladder, emitting light at the bladder with the emitter while detecting light with the detector, and collecti",
+      "ipc": [
+        "A61B5/1455",
+        "A61B5/00",
+        "A61B5/20",
+        "A61B6/00"
+      ],
+      "cos_raw": 0.6344,
+      "cos_norm": 0.7066,
+      "ipc_score": 1.0,
+      "final": 0.7946
+    },
+    {
+      "rank": 9,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "cos_raw": 0.6703,
+      "cos_norm": 0.7891,
+      "ipc_score": 0.8,
+      "final": 0.7924
+    },
+    {
+      "rank": 10,
+      "lens_id": "053-651-209-532-211",
+      "title": "Method of Preventing or Treating Pancreatic Dysfunction or Diabetes by Upregulating Human Cathelicidin LL-37 to Inhibit Islet Amyloid Polypeptide (IAPP) Self-Assembly",
+      "abstract": "A method for treating type 2 diabetes (T2D) is provided. The method comprises diagnosing a subject as suffering from T2D or as being pre-diabetic; monitoring the response to glucose stimulation of at least one islet in the pancreas of the subject by quantitatively imaging glucose metabolism in vivo;",
+      "ipc": [
+        "A61B5/00",
+        "A61B5/145",
+        "A61K31/164",
+        "G06T7/00"
+      ],
+      "cos_raw": 0.6316,
+      "cos_norm": 0.7002,
+      "ipc_score": 1.0,
+      "final": 0.7902
+    }
+  ]
+}

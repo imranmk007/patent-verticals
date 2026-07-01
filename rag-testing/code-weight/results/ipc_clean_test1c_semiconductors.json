@@ -1,0 +1,216 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-clean/test1c_semiconductors.json",
+  "variant": "clean",
+  "query_ipc": [
+    "H01L29/786",
+    "H01L29/423",
+    "H01L29/66"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 85.72,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "138-137-705-954-552",
+      "title": "NANOSHEET CHANNEL-TO-SOURCE AND DRAIN ISOLATION",
+      "abstract": "A method and structures are used to fabricate a nanosheet semiconductor device. Nanosheet fins including nanosheet stacks including alternating silicon (Si) layers and silicon germanium (SiGe) layers are formed on a substrate and etched to define a first end and a second end along a first axis betwe",
+      "ipc": [
+        "H01L29/66",
+        "H01L21/311",
+        "H01L21/762",
+        "H01L29/06",
+        "H01L29/08",
+        "H01L29/417",
+        "H01L29/423",
+        "H01L29/775",
+        "H01L29/78",
+        "H01L29/786"
+      ],
+      "cos_raw": 0.8216,
+      "cos_norm": 1.0,
+      "ipc_score": 1.0,
+      "final": 1.0
+    },
+    {
+      "rank": 2,
+      "lens_id": "151-296-593-543-132",
+      "title": "Gate spacer and inner spacer formation for nanosheet transistors having relatively small space between gates",
+      "abstract": "Embodiments of the invention are directed to method of fabricating a semiconductor device. A non-limiting embodiment of the method includes performing fabrication operations to form a nanosheet field effect transistor (FET) device on a substrate, wherein the fabrication operations include forming ga",
+      "ipc": [
+        "H01L29/66",
+        "H01L29/06",
+        "H01L29/78"
+      ],
+      "cos_raw": 0.8003,
+      "cos_norm": 0.9554,
+      "ipc_score": 1.0,
+      "final": 0.9688
+    },
+    {
+      "rank": 3,
+      "lens_id": "074-241-837-680-979",
+      "title": "HEMT DEVICES WITH REDUCED SIZE AND HIGH ALIGNMENT TOLERANCE",
+      "abstract": "A High Electron Mobility Transistor (HEMT) includes a source, a drain, a channel layer extending between the source and the drain, a barrier layer formed in contact with the channel layer, and extending between the source and the drain, and a gate formed in contact with, and covering at least a port",
+      "ipc": [
+        "H01L29/778",
+        "H01L29/10",
+        "H01L29/40",
+        "H01L29/66"
+      ],
+      "cos_raw": 0.7273,
+      "cos_norm": 0.8022,
+      "ipc_score": 1.0,
+      "final": 0.8615
+    },
+    {
+      "rank": 4,
+      "lens_id": "180-792-297-457-55X",
+      "title": "FIELD EFFECT TRANSISTOR CONSTRUCTIONS AND MEMORY ARRAYS",
+      "abstract": "In some embodiments, a transistor includes a stack having a bottom source/drain region, a first insulative material, a conductive gate, a second insulative material, and a top source/drain region. The stack has a vertical sidewall with a bottom portion along the bottom source/drain region, a middle ",
+      "ipc": [
+        "H01L29/78",
+        "H10B10/00",
+        "H01L21/336",
+        "H10B12/00",
+        "H10B69/00",
+        "H10B99/00"
+      ],
+      "cos_raw": 0.7659,
+      "cos_norm": 0.8832,
+      "ipc_score": 0.8,
+      "final": 0.8583
+    },
+    {
+      "rank": 5,
+      "lens_id": "106-796-780-426-037",
+      "title": "Gate-all-around structure and methods of forming the same",
+      "abstract": "Semiconductor device and the manufacturing method thereof are disclosed herein. An exemplary method comprises forming a fin over a substrate, wherein the fin comprises a first semiconductor layer and a second semiconductor layer including different semiconductor materials, and the fin comprises a ch",
+      "ipc": [
+        "H01L29/786",
+        "H01L21/02",
+        "H01L21/306",
+        "H01L29/06",
+        "H01L29/423",
+        "H01L29/66"
+      ],
+      "cos_raw": 0.7227,
+      "cos_norm": 0.7925,
+      "ipc_score": 1.0,
+      "final": 0.8548
+    },
+    {
+      "rank": 6,
+      "lens_id": "001-155-115-229-538",
+      "title": "Gate-All-Around Structure and Methods of Forming the Same",
+      "abstract": "Semiconductor device and the manufacturing method thereof are disclosed herein. An exemplary method comprises forming a fin over a substrate, wherein the fin comprises a first semiconductor layer and a second semiconductor layer including different semiconductor materials, and the fin comprises a ch",
+      "ipc": [
+        "H01L29/786",
+        "H01L21/02",
+        "H01L21/306",
+        "H01L29/06",
+        "H01L29/423",
+        "H01L29/66"
+      ],
+      "cos_raw": 0.7227,
+      "cos_norm": 0.7925,
+      "ipc_score": 1.0,
+      "final": 0.8548
+    },
+    {
+      "rank": 7,
+      "lens_id": "177-148-420-689-407",
+      "title": "Method of Forming High-Voltage Transistor with Thin Gate Poly",
+      "abstract": "A semiconductor device and method of fabricating the same are disclosed. The method includes depositing a polysilicon gate layer over a gate dielectric formed over a surface of a substrate in a peripheral region, forming a dielectric layer over the polysilicon gate layer and depositing a height-enha",
+      "ipc": [
+        "H10B43/40",
+        "H01L21/265",
+        "H01L21/28",
+        "H01L21/285",
+        "H01L29/423",
+        "H01L29/45",
+        "H01L29/49",
+        "H01L29/66",
+        "H01L29/78",
+        "H01L29/792",
+        "H10B41/30",
+        "H10B41/35",
+        "H10B41/44",
+        "H10B41/49",
+        "H10B43/30",
+        "H10B43/35"
+      ],
+      "cos_raw": 0.7147,
+      "cos_norm": 0.7757,
+      "ipc_score": 1.0,
+      "final": 0.843
+    },
+    {
+      "rank": 8,
+      "lens_id": "128-158-095-874-116",
+      "title": "SEMICONDUCTOR DEVICE AND MANUFACTURING METHOD THEREOF",
+      "abstract": "In a bottom gate type thin film transistor, provided are a structure and a manufacturing method thereof for suppressing deterioration of the switching characteristics by mitigating the concentration of an electric field, which may occur between a source electrode and a drain electrode. The bottom ga",
+      "ipc": [
+        "H01L29/417",
+        "H01L21/02",
+        "H01L27/12",
+        "H01L29/786"
+      ],
+      "cos_raw": 0.7076,
+      "cos_norm": 0.7608,
+      "ipc_score": 1.0,
+      "final": 0.8326
+    },
+    {
+      "rank": 9,
+      "lens_id": "194-908-189-722-029",
+      "title": "Methods of forming transistor constructions",
+      "abstract": "The invention includes a non-volatile memory cell comprising a field effect transistor construction having a body region within a crystalline material. The body region includes a charge trapping region. The memory cell can be TFT-SOI based, and can be supported by a substrate selected from a diverse",
+      "ipc": [
+        "H01L27/12",
+        "G11C16/04",
+        "G11C16/10",
+        "G11C16/26",
+        "G11C16/28",
+        "H01L21/02",
+        "H01L21/336",
+        "H01L21/768",
+        "H01L21/8247",
+        "H01L21/84",
+        "H01L29/786",
+        "H01L29/788",
+        "H10B12/00",
+        "H10B20/00",
+        "H10B69/00"
+      ],
+      "cos_raw": 0.7069,
+      "cos_norm": 0.7594,
+      "ipc_score": 1.0,
+      "final": 0.8316
+    },
+    {
+      "rank": 10,
+      "lens_id": "072-625-320-227-67X",
+      "title": "DIFFUSED BITLINE REPLACEMENT IN STACKED WAFER MEMORY",
+      "abstract": "Techniques are disclosed herein for creating metal BLs in stacked wafer memory. Using techniques described herein, metal BLs are created on a bottom surface of a wafer. The metal BLs can be created using different processes. In some configurations, a salicide process is utilized. In other configurat",
+      "ipc": [
+        "H01L25/065",
+        "H01L21/02",
+        "H01L21/321",
+        "H01L21/768",
+        "H01L21/8234",
+        "H01L23/528",
+        "H01L25/00",
+        "H01L27/105",
+        "H01L29/08",
+        "H01L29/45",
+        "H01L29/66"
+      ],
+      "cos_raw": 0.7059,
+      "cos_norm": 0.7572,
+      "ipc_score": 1.0,
+      "final": 0.83
+    }
+  ]
+}

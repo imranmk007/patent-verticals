@@ -1,0 +1,134 @@
+{
+  "system": "longdoc-chunked-bge",
+  "query_file": "input-document.txt",
+  "num_chunks": 9,
+  "chunk_size_tokens": 300,
+  "chunk_overlap_pct": 0.15,
+  "k_used": 2,
+  "index_time_ms": 6.6,
+  "query_time_ms": 274.23,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "113-511-993-296-717",
+      "title": "High-yield industrial cultivation greenhouse for organic shiitake mushrooms",
+      "abstract": "The high-yield factory cultivation greenhouse for the organic mushrooms comprises a supporting frame, a plurality of sliding rods are fixedly connected to the two sides of the supporting frame, a supporting plate is fixedly connected to the supporting frame, an infusion pump is fixedly connected to ",
+      "ipc": [
+        "A01G18/60",
+        "A01G18/69",
+        "B08B1/02",
+        "B08B3/02"
+      ],
+      "score": 0.747
+    },
+    {
+      "rank": 2,
+      "lens_id": "143-589-396-862-811",
+      "title": "MULTI-CHANNEL SYSTEMS FOR PROVIDING TUNABLE LIGHT WITH HIGH COLOR RENDERING AND BIOLOGICAL EFFECTS",
+      "abstract": "The present disclosure provides systems for generating tunable white light. The systems include a plurality of LED strings that generate light with color points that fall within red, blue, green, and cyan color ranges, with each LED string being driven with a separately controllable drive current in",
+      "ipc": [
+        "H05B33/02",
+        "H05B44/00",
+        "H01L27/15",
+        "H05B33/00"
+      ],
+      "score": 0.7286
+    },
+    {
+      "rank": 3,
+      "lens_id": "010-648-632-704-511",
+      "title": "Continuous flow type three-dimension electrode for water body sterilization and photoactivating combination reaction device",
+      "abstract": "The utility model discloses a continuous flow type three-dimension electrode for water body sterilization and a photoactivating combination reaction device. The device comprises a three dimensional electrode electrochemical sterilizing tank, a diversion trench and an ultraviolet light catalyzing ste",
+      "ipc": [
+        "C02F9/08",
+        "C02F1/32",
+        "C02F1/467",
+        "C02F1/72"
+      ],
+      "score": 0.7187
+    },
+    {
+      "rank": 4,
+      "lens_id": "052-435-567-647-868",
+      "title": "High-precision remote intelligent control equipment for microbial strain production workshop",
+      "abstract": "The invention discloses high-precision remote intelligent control equipment for a microbial strain production workshop. The equipment comprises a main body bin, wherein threaded rods are symmetrically arranged at positions of four corners inside the main body bin, a movable plate is jointly arranged",
+      "ipc": [
+        "C12M1/38",
+        "C12M1/00",
+        "C12M1/02",
+        "C12M1/04",
+        "C12M1/34",
+        "C12M1/36"
+      ],
+      "score": 0.7185
+    },
+    {
+      "rank": 5,
+      "lens_id": "007-550-523-298-960",
+      "title": "A photovoltaic production of wastewater separated by salt water Device",
+      "abstract": "This practical new form of disclosure of a saline separator for the production of waste water from photovoltaic panels covers the area of wastewater treatment technology. This practical new type includes the saline separators, which have mobile poles on the right side of the upper wall of the saline",
+      "ipc": [
+        "C02F1/04",
+        "C02F1/00",
+        "G01F23/68"
+      ],
+      "score": 0.7166
+    },
+    {
+      "rank": 6,
+      "lens_id": "054-845-994-657-782",
+      "title": "A support device for crop cultivation",
+      "abstract": "The invention revealed a support device for crop cultivation, which belongs to the technical field of crop cultivation. The crop is grown with a support unit, with a support unit and a support frame below the support unit; the support unit consists of a connector pole and several ribs that are lined",
+      "ipc": [
+        "A01G9/28",
+        "A01G9/029"
+      ],
+      "score": 0.7156
+    },
+    {
+      "rank": 7,
+      "lens_id": "113-737-829-840-217",
+      "title": "Electrically Actuatable Sanitary Fitting",
+      "abstract": "The flow of water through a sanitary fitting is controlled by a hydraulic control unit through which a cold water stream and hot water stream flow, said control unit emitting a mixed water stream. The hydraulic control unit is controlled in turn by a control unit cooperating with a presence sensor. ",
+      "ipc": [
+        "G08B23/00"
+      ],
+      "score": 0.7142
+    },
+    {
+      "rank": 8,
+      "lens_id": "094-280-566-683-808",
+      "title": "DEVICE AND METHOD FOR HIGH THROUGHPUT 3D CELL CULTURE IN A WELL",
+      "abstract": "A 3D well-insert perfusion bioreactor system and method for more accurate modeling of in vivo environmental conditions and cellular behaviors. In some embodiments, the insert bioreactor includes an inlet coupled to a lower chamber and an outlet coupled to an upper chamber, where the chambers are sep",
+      "ipc": [
+        "C12M1/32",
+        "C12M1/00",
+        "C12M3/06"
+      ],
+      "score": 0.7132
+    },
+    {
+      "rank": 9,
+      "lens_id": "089-222-081-173-539",
+      "title": "Self-powered, self-propelled compute grid with loop topology",
+      "abstract": "An energy-harvesting computing grid includes computing assemblies that cooperate with mobile floating energy harvesters configured to be deployed on a body of water. The harvesters include a navigational system which control them to drift in a recurrent orbital path conforming to ambient currents, w",
+      "ipc": [
+        "F03B13/14",
+        "G06F9/50"
+      ],
+      "score": 0.7125
+    },
+    {
+      "rank": 10,
+      "lens_id": "113-862-862-484-253",
+      "title": "An inoculation system for life-saving bacteria.",
+      "abstract": "The invention has opened up a system of vibrous vaccine breeding, which is in the field of probate culture techniques, and the following programmes are proposed. These include the Benevolent Bacillus Cultivation Institute, which has several biobacterial storage and regulation units within the said b",
+      "ipc": [
+        "C12M1/00",
+        "C12M1/10"
+      ],
+      "score": 0.7119
+    }
+  ]
+}

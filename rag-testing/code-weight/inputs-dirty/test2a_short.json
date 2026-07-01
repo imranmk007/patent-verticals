@@ -1,0 +1,8 @@
+{
+  "document": "A wearable adhesive patch that continuously monitors interstitial glucose concentration using near-infrared spectroscopy across the 1000–2500 nm wavelength range. Optical interrogation of subcutaneous tissue enables real-time glucose quantification without percutaneous insertion or capillary blood sampling. Onboard signal processing compensates for tissue scattering variability and transmits readings wirelessly via Bluetooth LE.",
+  "ipc_classifications": [
+    "B60R21/00",
+    "F02M37/00",
+    "E05B65/00"
+  ]
+}

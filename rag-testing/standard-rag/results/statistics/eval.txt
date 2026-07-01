@@ -1,0 +1,132 @@
+
+Misc notes: roughly 7900 samples, retrieved the top 10 most relevant for all tests.
+
+test1a — Patent abstract (biotech)
+  bm25 query time: 81.06ms
+  minilm query time: 2.72ms
+  bge query time: 0.17ms
+
+--------------------------------------------------
+
+test1b — Patent abstract (software)
+  bm25 query time: 80.18ms
+  minilm query time: 1.84ms
+  bge query time: 0.16ms
+
+  bm25 rank 1: Method for improving ciphertext calculation efficiency through distributed learning based on homomorphic encryption
+    IPC: G06N20/00, H04L9/00
+  minilm rank 1: Distributed Adversarial Training for Robust Deep Neural Networks
+    IPC: G06N3/08, G06N3/04
+  bge rank 1: Distributed Adversarial Training for Robust Deep Neural Networks
+    IPC: G06N3/08, G06N3/04
+
+--------------------------------------------------
+
+test1c — Patent abstract (semiconductors)
+  bm25 query time: 77.85ms
+  minilm query time: 1.18ms
+  bge query time: 0.16ms
+
+--------------------------------------------------
+
+test2a — Product desc — short
+  bm25 query time: 32.02ms
+  minilm query time: 1.18ms
+  bge query time: 0.15ms
+
+ 
+--------------------------------------------------
+
+test2b — Product desc — medium
+  bm25 query time: 52.48ms
+  minilm query time: 1.18ms
+  bge query time: 0.16ms
+
+--------------------------------------------------
+
+test2c — Product desc — long
+  bm25 query time: 78.67ms
+  minilm query time: 1.22ms
+  bge query time: 0.16ms
+
+  short vs long overlap (jaccard, top-10):
+    bm25: 0.43
+    minilm: 0.33
+    bge: 0.25
+
+--------------------------------------------------
+
+test3a — Plain language — short
+  bm25 query time: 21.31ms
+  minilm query time: 1.32ms
+  bge query time: 0.15ms
+
+--------------------------------------------------
+
+test3b — Plain language — medium
+  bm25 query time: 35.02ms
+  minilm query time: 1.21ms
+  bge query time: 0.15ms
+
+--------------------------------------------------
+
+test3c — Plain language — long
+  bm25 query time: 43.83ms
+  minilm query time: 1.37ms
+  bge query time: 0.15ms
+
+  short vs long overlap (jaccard, top-10):
+    bm25: 0.25
+    minilm: 0.43
+    bge: 0.25
+
+--------------------------------------------------
+
+
+confidence scores (rank 1)
+--------------------------------------------------
+
+test1a — Patent abstract (biotech)
+  bm25: 124.1516
+  minilm: 0.5908
+  bge: 0.7631
+
+test1b — Patent abstract (software)
+  bm25: 101.6285
+  minilm: 0.5985
+  bge: 0.7646
+
+test1c — Patent abstract (semiconductors)
+  bm25: 167.9132
+  minilm: 0.6986
+  bge: 0.8216
+
+test2a — Product desc — short
+  bm25: 44.7973
+  minilm: 0.6524
+  bge: 0.7846
+
+test2b — Product desc — medium
+  bm25: 74.6173
+  minilm: 0.5869
+  bge: 0.758
+
+test2c — Product desc — long
+  bm25: 55.9259
+  minilm: 0.5458
+  bge: 0.7696
+
+test3a — Plain language — short
+  bm25: 38.0247
+  minilm: 0.6484
+  bge: 0.7621
+
+test3b — Plain language — medium
+  bm25: 92.9635
+  minilm: 0.6457
+  bge: 0.7616
+
+test3c — Plain language — long
+  bm25: 57.6942
+  minilm: 0.5701
+  bge: 0.7601

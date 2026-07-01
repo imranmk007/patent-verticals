@@ -1,0 +1,172 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test3b_medium.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "B60R21/00",
+    "F02M37/00",
+    "E05B65/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 82.5,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "cos_raw": 0.7616,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 2,
+      "lens_id": "003-641-009-553-437",
+      "title": "Copyright (C) 2015 SHINSEGAE. All Rights Reserved.",
+      "abstract": "This invention is about how to measure the amount of red concentrated concentrates in the enzymes that have been mixed with the hydrogen peroxide and the amount of diethylamine in the form of p-nitrophenyl glucopyranosid (p-NPG).",
+      "ipc": [],
+      "cos_raw": 0.6219,
+      "cos_norm": 0.666,
+      "ipc_score": null,
+      "final": 0.666
+    },
+    {
+      "rank": 3,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "cos_raw": 0.7315,
+      "cos_norm": 0.9279,
+      "ipc_score": 0.0,
+      "final": 0.6495
+    },
+    {
+      "rank": 4,
+      "lens_id": "055-128-765-435-777",
+      "title": "DEVICES, SYSTEMS, AND METHODS FOR PREDICTING BLOOD GLUCOSE LEVELS BASED ON A PERSONALIZED BLOOD GLUCOSE REGULATION MODEL",
+      "abstract": "The present disclosure provides devices, systems, and methods for optimizing blood glucose level regulation by predicting blood glucose levels based on personalized blood glucose regulation models. In some exemplary embodiments, a computer-implemented method of blood glucose level regulation include",
+      "ipc": [
+        "G09B19/00",
+        "A61B5/00",
+        "B60Q9/00",
+        "G06N20/00",
+        "G16H10/60",
+        "G16H20/60",
+        "G16H50/20",
+        "G16H50/50"
+      ],
+      "cos_raw": 0.6638,
+      "cos_norm": 0.7663,
+      "ipc_score": 0.2,
+      "final": 0.5964
+    },
+    {
+      "rank": 5,
+      "lens_id": "187-097-942-962-04X",
+      "title": "Reversing camera with reversing early warning function",
+      "abstract": "The utility model provides a reversing camera with a reversing early warning function. The reversing camera comprises a lens, a CMOS sensor electrically connected to the lens, a video buffer electrically connected to the CMOS sensor, and a flash module electrically connected to the CMOS sensor. The ",
+      "ipc": [
+        "B60R1/00",
+        "B60R21/0134",
+        "H04N5/225"
+      ],
+      "cos_raw": 0.5533,
+      "cos_norm": 0.5022,
+      "ipc_score": 0.8,
+      "final": 0.5915
+    },
+    {
+      "rank": 6,
+      "lens_id": "123-682-664-291-332",
+      "title": "COLLISION DETECTION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide a collision detection device that can accurately detect not only collision with a pedestrian but also collision with a two-wheel vehicle, etc.SOLUTION: A collision detection device that can detect collision with a bumper face 101 disposed on the front side of a vehic",
+      "ipc": [
+        "B60R21/00",
+        "B60R19/48",
+        "G01L5/00"
+      ],
+      "cos_raw": 0.515,
+      "cos_norm": 0.4107,
+      "ipc_score": 1.0,
+      "final": 0.5875
+    },
+    {
+      "rank": 7,
+      "lens_id": "121-872-660-747-851",
+      "title": "FASTENING ELEMENT FOR THE VEHICLE-SIDE MOUNTING OF AN AIRBAG MODULE",
+      "abstract": "A fastening element (1) is proposed for mounting a gas bag module (100) on the vehicle side with at least one fastening plate (3) which can be fastened on the vehicle side, wherein the fastening plate (3) can be coupled in its plate plane (E) with a gas bag (2) in a non-rotatable manner, wherein the",
+      "ipc": [
+        "B60R21/201",
+        "B60R21/213",
+        "B60R21/232"
+      ],
+      "cos_raw": 0.5471,
+      "cos_norm": 0.4874,
+      "ipc_score": 0.8,
+      "final": 0.5811
+    },
+    {
+      "rank": 8,
+      "lens_id": "090-999-646-522-627",
+      "title": "EMISSION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide an emission device and the like that improve detection accuracy of, for example, vehicles.SOLUTION: A laser inter-vehicle range-finder is mounted to an own vehicle. The laser inter-vehicle range-finder is configured to emit light in an emission direction that is forw",
+      "ipc": [
+        "G01S7/481",
+        "B60R21/00",
+        "G01C3/06",
+        "G01S7/484",
+        "G01S17/93"
+      ],
+      "cos_raw": 0.5095,
+      "cos_norm": 0.3974,
+      "ipc_score": 1.0,
+      "final": 0.5782
+    },
+    {
+      "rank": 9,
+      "lens_id": "138-074-812-139-62X",
+      "title": "SYSTEMS AND METHODS FOR ADAPTING ACTIVATION TIMING OF ALERTS",
+      "abstract": "System, methods, and other embodiments described herein relate to alerting a passenger about hazards when exiting a subject vehicle. In one embodiment, a method includes identifying an initial target and a subsequent target according to sensor data about a surrounding environment of the subject vehi",
+      "ipc": [
+        "E05C17/00",
+        "B60Q1/52",
+        "B60Q5/00",
+        "B60Q9/00",
+        "B60R21/015",
+        "E05B77/14"
+      ],
+      "cos_raw": 0.5402,
+      "cos_norm": 0.4708,
+      "ipc_score": 0.8,
+      "final": 0.5696
+    },
+    {
+      "rank": 10,
+      "lens_id": "115-700-024-175-137",
+      "title": "System and Method of Battery Monitoring",
+      "abstract": "It is herein described a battery monitoring system, in particular for a vehicle battery, which comprises the steps of: calculating, based on the battery voltage (1), the parameters of the battery state of health (SoH), battery state of charge (SoC) and stand-by current (IOD); comparing the battery s",
+      "ipc": [
+        "B60L11/18",
+        "B60L3/12",
+        "B60R16/033",
+        "G01R31/36",
+        "H01M10/06",
+        "H01M10/48"
+      ],
+      "cos_raw": 0.5936,
+      "cos_norm": 0.5984,
+      "ipc_score": 0.5,
+      "final": 0.5689
+    }
+  ]
+}

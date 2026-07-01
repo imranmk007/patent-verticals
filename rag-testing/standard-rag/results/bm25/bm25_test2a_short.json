@@ -1,0 +1,147 @@
+{
+  "system": "bm25",
+  "query_file": "test2a_short.txt",
+  "index_time_ms": 201.6,
+  "query_time_ms": 32.02,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "score": 44.7973
+    },
+    {
+      "rank": 2,
+      "lens_id": "066-271-446-159-278",
+      "title": "HEAD-UP DISPLAY DEVICE",
+      "abstract": "The purpose of the present invention is to control heat generation by infrared rays and degradation by ultraviolet rays of an intermediate screen (2). This head-up display device is provided with: the intermediate screen (2) whereon an image projected from an image forming unit (1) is formed; an enl",
+      "ipc": [
+        "G02B27/01",
+        "B60K35/00"
+      ],
+      "score": 42.1343
+    },
+    {
+      "rank": 3,
+      "lens_id": "043-718-740-173-031",
+      "title": "Filters, imaging devices and optical sensors",
+      "abstract": "This invention involved filters, imaging devices and optical sensors. This invention involves a filter with an average internal penetration rate of more than 90 per cent for the light in the film, an average internal penetration rate of 590 nm ~630 nm for the reflection layer, an average internal pe",
+      "ipc": [
+        "G02B5/22",
+        "G02B5/20",
+        "G02B5/26",
+        "G03B11/00"
+      ],
+      "score": 41.8822
+    },
+    {
+      "rank": 4,
+      "lens_id": "052-884-406-161-115",
+      "title": "Temperature quantification system and method for leaked gas",
+      "abstract": "The invention provides a temperature quantification system and method for leaked gas, and relates to the technical field of body leakage detection. The system comprises an image obtaining device whichis used for photographing a real-time infrared image, containing the leaked gas, of a gas monitoring",
+      "ipc": [
+        "G06F16/901",
+        "G01J5/00",
+        "G06F16/583",
+        "G06F16/9038",
+        "G06T7/13",
+        "G06T7/194",
+        "G06T7/90"
+      ],
+      "score": 40.1131
+    },
+    {
+      "rank": 5,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 37.0136
+    },
+    {
+      "rank": 6,
+      "lens_id": "133-823-822-329-295",
+      "title": "COMPOSITIONS AND METHODS FOR TREATING SKIN CONDITIONS USING INFRARED LIGHT AND RESORCINOLS",
+      "abstract": "The present invention relates to compositions and methods for treating skin conditions using infrared light and resorcinols, and provides compositions, methods and kits for treating skin, which combine administration of a substituted resorcinol and infrared light having a peak wavelength of about 75",
+      "ipc": [
+        "A61K31/05",
+        "A61K9/00",
+        "A61N5/06",
+        "A61P17/18"
+      ],
+      "score": 36.6907
+    },
+    {
+      "rank": 7,
+      "lens_id": "055-128-765-435-777",
+      "title": "DEVICES, SYSTEMS, AND METHODS FOR PREDICTING BLOOD GLUCOSE LEVELS BASED ON A PERSONALIZED BLOOD GLUCOSE REGULATION MODEL",
+      "abstract": "The present disclosure provides devices, systems, and methods for optimizing blood glucose level regulation by predicting blood glucose levels based on personalized blood glucose regulation models. In some exemplary embodiments, a computer-implemented method of blood glucose level regulation include",
+      "ipc": [
+        "G09B19/00",
+        "A61B5/00",
+        "B60Q9/00",
+        "G06N20/00",
+        "G16H10/60",
+        "G16H20/60",
+        "G16H50/20",
+        "G16H50/50"
+      ],
+      "score": 35.9256
+    },
+    {
+      "rank": 8,
+      "lens_id": "080-429-876-225-188",
+      "title": "A temperature quantification system and method for leaking gases",
+      "abstract": "The present invention provides a temperature quantification system and methodology for leaking gases, covering the technical areas of body leakage detection, including: image acquisition devices for taking real-time infrared images of the leaked gases in the gas monitoring area; image processing dev",
+      "ipc": [
+        "G06F16/901",
+        "G01J5/00",
+        "G01J5/02",
+        "G06F16/583",
+        "G06F16/9038",
+        "G06T7/13",
+        "G06T7/194",
+        "G06T7/90"
+      ],
+      "score": 35.421
+    },
+    {
+      "rank": 9,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "score": 34.9062
+    },
+    {
+      "rank": 10,
+      "lens_id": "164-832-590-982-293",
+      "title": "OPTICAL FILTER",
+      "abstract": "To provide an optical filter having excellent transmittability of near-infrared light of 800 nm or more and excellent shielding properties of visible light of 400 to 680 nm.SOLUTION: In an optical filter having a base material, and a dielectric multilayered film laminated in at least one main surfac",
+      "ipc": [
+        "G02B5/28"
+      ],
+      "score": 33.4923
+    }
+  ]
+}

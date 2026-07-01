@@ -1,0 +1,176 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test1c_semiconductors.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "A23L2/00",
+    "B27M3/00",
+    "D06F39/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 74.28,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "138-137-705-954-552",
+      "title": "NANOSHEET CHANNEL-TO-SOURCE AND DRAIN ISOLATION",
+      "abstract": "A method and structures are used to fabricate a nanosheet semiconductor device. Nanosheet fins including nanosheet stacks including alternating silicon (Si) layers and silicon germanium (SiGe) layers are formed on a substrate and etched to define a first end and a second end along a first axis betwe",
+      "ipc": [
+        "H01L29/66",
+        "H01L21/311",
+        "H01L21/762",
+        "H01L29/06",
+        "H01L29/08",
+        "H01L29/417",
+        "H01L29/423",
+        "H01L29/775",
+        "H01L29/78",
+        "H01L29/786"
+      ],
+      "cos_raw": 0.8216,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 2,
+      "lens_id": "151-296-593-543-132",
+      "title": "Gate spacer and inner spacer formation for nanosheet transistors having relatively small space between gates",
+      "abstract": "Embodiments of the invention are directed to method of fabricating a semiconductor device. A non-limiting embodiment of the method includes performing fabrication operations to form a nanosheet field effect transistor (FET) device on a substrate, wherein the fabrication operations include forming ga",
+      "ipc": [
+        "H01L29/66",
+        "H01L29/06",
+        "H01L29/78"
+      ],
+      "cos_raw": 0.8003,
+      "cos_norm": 0.9554,
+      "ipc_score": 0.0,
+      "final": 0.6688
+    },
+    {
+      "rank": 3,
+      "lens_id": "180-792-297-457-55X",
+      "title": "FIELD EFFECT TRANSISTOR CONSTRUCTIONS AND MEMORY ARRAYS",
+      "abstract": "In some embodiments, a transistor includes a stack having a bottom source/drain region, a first insulative material, a conductive gate, a second insulative material, and a top source/drain region. The stack has a vertical sidewall with a bottom portion along the bottom source/drain region, a middle ",
+      "ipc": [
+        "H01L29/78",
+        "H10B10/00",
+        "H01L21/336",
+        "H10B12/00",
+        "H10B69/00",
+        "H10B99/00"
+      ],
+      "cos_raw": 0.7659,
+      "cos_norm": 0.8832,
+      "ipc_score": 0.0,
+      "final": 0.6183
+    },
+    {
+      "rank": 4,
+      "lens_id": "138-596-053-161-225",
+      "title": "Transistor layout for semiconductor integrated circuit",
+      "abstract": "A semiconductor integrated circuit comprising a MOSFET having a metal wiring layer formed via an insulating film above and along the gate electrode of the MOSFET. The MOSFET is structured such that its channel length is small or channel width is large, and an input signal is applied from at least bo",
+      "ipc": [
+        "H01L27/105"
+      ],
+      "cos_raw": 0.7607,
+      "cos_norm": 0.8722,
+      "ipc_score": 0.0,
+      "final": 0.6105
+    },
+    {
+      "rank": 5,
+      "lens_id": "107-181-590-823-678",
+      "title": "NANOWIRE TRANSISTOR WITH UNDERLAYER ETCH STOPS",
+      "abstract": "A nanowire device of the present description may be produced with the incorporation of at least one underlayer etch stop formed during the fabrication of at least one nanowire transistor in order to assist in protecting source structures and/or drain structures from damage that may result from fabri",
+      "ipc": [
+        "H01L29/78",
+        "H01L21/336"
+      ],
+      "cos_raw": 0.7458,
+      "cos_norm": 0.841,
+      "ipc_score": 0.0,
+      "final": 0.5887
+    },
+    {
+      "rank": 6,
+      "lens_id": "156-719-651-612-276",
+      "title": "FLEXIBLE PORTION FOR A COVER MEMBER OF AN APPLIANCE",
+      "abstract": "An appliance includes at least one chamber accessible via an opening and a cover member for providing selective access to the opening. The cover member includes a flexible portion and a rigid portion. The flexible portion includes a plurality of elongated rib members and a flexible skin covering sur",
+      "ipc": [
+        "D06F39/14",
+        "D06F23/04",
+        "D06F39/02",
+        "D06F58/20"
+      ],
+      "cos_raw": 0.5745,
+      "cos_norm": 0.4813,
+      "ipc_score": 0.8,
+      "final": 0.5769
+    },
+    {
+      "rank": 7,
+      "lens_id": "145-982-313-251-163",
+      "title": "JOINT STRUCTURE OF LAMINATED TIMBER",
+      "abstract": "PURPOSE:To increase yield strength in a joining section of laminated timber having relatively long span. CONSTITUTION:Beam members 11-15 of a pedestal section 2A of the end are laminated by gradually slipping in a horizontal direction to form step sections 16a-16d. On the other hand, plate member 27",
+      "ipc": [
+        "B27M1/00",
+        "B27M3/00",
+        "E04B1/26",
+        "E04C3/42"
+      ],
+      "cos_raw": 0.5284,
+      "cos_norm": 0.3846,
+      "ipc_score": 1.0,
+      "final": 0.5692
+    },
+    {
+      "rank": 8,
+      "lens_id": "074-241-837-680-979",
+      "title": "HEMT DEVICES WITH REDUCED SIZE AND HIGH ALIGNMENT TOLERANCE",
+      "abstract": "A High Electron Mobility Transistor (HEMT) includes a source, a drain, a channel layer extending between the source and the drain, a barrier layer formed in contact with the channel layer, and extending between the source and the drain, and a gate formed in contact with, and covering at least a port",
+      "ipc": [
+        "H01L29/778",
+        "H01L29/10",
+        "H01L29/40",
+        "H01L29/66"
+      ],
+      "cos_raw": 0.7273,
+      "cos_norm": 0.8022,
+      "ipc_score": 0.0,
+      "final": 0.5615
+    },
+    {
+      "rank": 9,
+      "lens_id": "104-680-135-205-242",
+      "title": "FLEXIBLE COVER MEMBER FOR AN APPLIANCE",
+      "abstract": "The present disclosure is directed to an appliance having at least one chamber accessible via an opening and a flexible cover member for providing selective access to the opening. The flexible cover member includes a plurality of elongated rib members and a flexible skin covering surrounding the plu",
+      "ipc": [
+        "D06F39/14",
+        "D06F23/04",
+        "D06F58/20"
+      ],
+      "cos_raw": 0.5628,
+      "cos_norm": 0.4567,
+      "ipc_score": 0.8,
+      "final": 0.5597
+    },
+    {
+      "rank": 10,
+      "lens_id": "027-645-922-786-862",
+      "title": "INTEGRATION METHODS TO FABRICATE INTERNAL SPACERS FOR NANOWIRE DEVICES",
+      "abstract": "A nanowire device having a plurality of internal spacers and a method for forming said internal spacers are disclosed. In an embodiment, a semiconductor device comprises a nanowire stack disposed above a substrate, the nanowire stack having a plurality of vertically-stacked nanowires, a gate structu",
+      "ipc": [
+        "H01L29/78",
+        "B82Y40/00",
+        "B82Y99/00",
+        "H01L21/336"
+      ],
+      "cos_raw": 0.726,
+      "cos_norm": 0.7995,
+      "ipc_score": 0.0,
+      "final": 0.5596
+    }
+  ]
+}

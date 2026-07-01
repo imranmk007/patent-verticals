@@ -1,0 +1,161 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-dirty/test2c_long.json",
+  "variant": "dirty",
+  "query_ipc": [
+    "B60R21/00",
+    "F02M37/00",
+    "E05B65/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 85.14,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "123-682-664-291-332",
+      "title": "COLLISION DETECTION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide a collision detection device that can accurately detect not only collision with a pedestrian but also collision with a two-wheel vehicle, etc.SOLUTION: A collision detection device that can detect collision with a bumper face 101 disposed on the front side of a vehic",
+      "ipc": [
+        "B60R21/00",
+        "B60R19/48",
+        "G01L5/00"
+      ],
+      "cos_raw": 0.5794,
+      "cos_norm": 0.5738,
+      "ipc_score": 1.0,
+      "final": 0.7017
+    },
+    {
+      "rank": 2,
+      "lens_id": "179-839-611-547-108",
+      "title": "APPARATUS FOR MULTIMODAL ANALYSIS OF ALLERGIC REACTIONS IN SKIN TESTS AND A HYBRID METHOD FOR MULTISPECTRAL IMAGING OF ALLERGIC REACTIONS IN SKIN TESTS AND ITS USE FOR AUTOMATIC EVALUATION OF THE RESULTS OF THESE TESTS",
+      "abstract": "A multimodal apparatus for analysis of allergic reactions during skin tests and a method of multispectral imaging of allergic reactions in case of the type I and the type IV allergic reactions induced by performing skin allergy Prick and Patch tests combine thermal imaging with Laser Doppler flowmet",
+      "ipc": [
+        "A61B5/00",
+        "A61B5/01",
+        "A61B5/026"
+      ],
+      "cos_raw": 0.7696,
+      "cos_norm": 1.0,
+      "ipc_score": 0.0,
+      "final": 0.7
+    },
+    {
+      "rank": 3,
+      "lens_id": "003-641-009-553-437",
+      "title": "Copyright (C) 2015 SHINSEGAE. All Rights Reserved.",
+      "abstract": "This invention is about how to measure the amount of red concentrated concentrates in the enzymes that have been mixed with the hydrogen peroxide and the amount of diethylamine in the form of p-nitrophenyl glucopyranosid (p-NPG).",
+      "ipc": [],
+      "cos_raw": 0.6304,
+      "cos_norm": 0.6881,
+      "ipc_score": null,
+      "final": 0.6881
+    },
+    {
+      "rank": 4,
+      "lens_id": "155-026-594-554-963",
+      "title": "Use of laser light and red-green-blue coloration to determine properties of back scattered light",
+      "abstract": "A surgical image acquisition system includes multiple illumination sources, each source emitting light at a specified wavelength, a light sensor to receive light reflected from a tissue sample illuminated by each of the illumination sources, and a computing system. The computer system may receive da",
+      "ipc": [
+        "G06T7/00",
+        "A61B1/04",
+        "A61B1/06",
+        "H04N9/64"
+      ],
+      "cos_raw": 0.7605,
+      "cos_norm": 0.9795,
+      "ipc_score": 0.0,
+      "final": 0.6857
+    },
+    {
+      "rank": 5,
+      "lens_id": "058-804-418-620-644",
+      "title": "SPRAY-DRIED DISPERSIONS, FORMULATIONS, AND POLYMORPHS OF (S)-5-AMINO-3-(4-((5-FLUORO-2-METHOXYBENZAMIDO)METHYL)PHENYL)-1-(1,1,1-TRIFLUOROPROPAN-2-YL)-1H-PYRAZOLE-4-CARBOXAMIDE",
+      "abstract": "A spray-dried dispersions and phamaceutical composition of (S)-5-amino-3-(445-fluoro-2-methoxybenzami do)m ethyl)pheny1)- 1 -( 1, 1,1 -trifluoropropan-2-y1)- 1 H-pyrazol e-4- c arb ox ami de, pharmaceutically acceptable salts thereof, or a combination thereof and the use of the spray-dried dispersio",
+      "ipc": [],
+      "cos_raw": 0.6266,
+      "cos_norm": 0.6795,
+      "ipc_score": null,
+      "final": 0.6795
+    },
+    {
+      "rank": 6,
+      "lens_id": "090-999-646-522-627",
+      "title": "EMISSION DEVICE",
+      "abstract": "PROBLEM TO BE SOLVED: To provide an emission device and the like that improve detection accuracy of, for example, vehicles.SOLUTION: A laser inter-vehicle range-finder is mounted to an own vehicle. The laser inter-vehicle range-finder is configured to emit light in an emission direction that is forw",
+      "ipc": [
+        "G01S7/481",
+        "B60R21/00",
+        "G01C3/06",
+        "G01S7/484",
+        "G01S17/93"
+      ],
+      "cos_raw": 0.5638,
+      "cos_norm": 0.5389,
+      "ipc_score": 1.0,
+      "final": 0.6772
+    },
+    {
+      "rank": 7,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "cos_raw": 0.7495,
+      "cos_norm": 0.955,
+      "ipc_score": 0.0,
+      "final": 0.6685
+    },
+    {
+      "rank": 8,
+      "lens_id": "152-040-384-413-048",
+      "title": "Reversing camera with rear collision early warning function",
+      "abstract": "The utility model provides a reversing camera with a rear collision early warning function. The reversing camera comprises a lens, a CMOS sensor electrically connected to the lens, a video buffer electrically connected to the CMOS sensor, and a flash module electrically connected to the CMOS sensor.",
+      "ipc": [
+        "B60R1/00",
+        "B60R21/0134",
+        "H04N5/225"
+      ],
+      "cos_raw": 0.5922,
+      "cos_norm": 0.6025,
+      "ipc_score": 0.8,
+      "final": 0.6617
+    },
+    {
+      "rank": 9,
+      "lens_id": "187-097-942-962-04X",
+      "title": "Reversing camera with reversing early warning function",
+      "abstract": "The utility model provides a reversing camera with a reversing early warning function. The reversing camera comprises a lens, a CMOS sensor electrically connected to the lens, a video buffer electrically connected to the CMOS sensor, and a flash module electrically connected to the CMOS sensor. The ",
+      "ipc": [
+        "B60R1/00",
+        "B60R21/0134",
+        "H04N5/225"
+      ],
+      "cos_raw": 0.581,
+      "cos_norm": 0.5774,
+      "ipc_score": 0.8,
+      "final": 0.6442
+    },
+    {
+      "rank": 10,
+      "lens_id": "003-835-298-386-377",
+      "title": "Folate targeted enhanced tumor and folate receptor positive tissue optical imaging technology",
+      "abstract": "A method of differentiating tumors from healthy cells in tissue is disclosed. The method includes the steps of providing a marker-folate conjugate, placing the marker-folate conjugate in contact with the tissue and viewing the tissue.",
+      "ipc": [
+        "A61K49/00",
+        "G01N21/64",
+        "G01N33/574",
+        "G01N33/82"
+      ],
+      "cos_raw": 0.7304,
+      "cos_norm": 0.9121,
+      "ipc_score": 0.0,
+      "final": 0.6385
+    }
+  ]
+}

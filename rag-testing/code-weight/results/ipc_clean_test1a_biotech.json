@@ -1,0 +1,230 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-clean/test1a_biotech.json",
+  "variant": "clean",
+  "query_ipc": [
+    "A61K9/51",
+    "A61K48/00",
+    "A61P35/00"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 86.52,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "094-159-445-714-140",
+      "title": "Restoration of tumor suppression using MRNA-based delivery system",
+      "abstract": "Compositions and methods for treating cancer that include administering a therapeutically effective amount of a tumor suppressor mRNA complexed with a delivery vehicle as described herein, e.g., a nanoparticle.",
+      "ipc": [
+        "C07H21/04",
+        "A61K9/51",
+        "A61K38/46",
+        "A61K47/59",
+        "A61P35/00"
+      ],
+      "cos_raw": 0.7631,
+      "cos_norm": 1.0,
+      "ipc_score": 1.0,
+      "final": 1.0
+    },
+    {
+      "rank": 2,
+      "lens_id": "094-333-648-314-770",
+      "title": "NANOSTRUCTURED DRUG DELIVERY SYSTEM AS A MULTIFUNCTIONAL PLATFORM FOR THERAPY",
+      "abstract": "The present invention discloses a drug delivery system for targeted therapy comprising a functionalized lipid-based nanoplatform, where at least one ligand is coupled to the surface of the nanoplatform and encapsulates at least one pharmaceutically active ingredient. A process for obtaining the drug",
+      "ipc": [
+        "A61K47/55",
+        "A61K9/00",
+        "A61K31/12",
+        "A61K31/40",
+        "A61K47/61",
+        "A61K47/62",
+        "A61K47/69",
+        "A61P35/00",
+        "B82Y5/00"
+      ],
+      "cos_raw": 0.7528,
+      "cos_norm": 0.9741,
+      "ipc_score": 1.0,
+      "final": 0.9819
+    },
+    {
+      "rank": 3,
+      "lens_id": "003-810-812-172-486",
+      "title": "Methods for enhancing an immune response from a 43 KD human cancer antigen",
+      "abstract": "A tumor associated protein has been discovered to exhibit immunoreactivity to human monoclonal antibody L92. A ten amino acid peptide segment of the protein and a fourteen amino acid peptide which contains the ten amino acid peptide has also been isolated and exhibits immunoreactivity to the same an",
+      "ipc": [
+        "C12N15/02",
+        "A61K35/17",
+        "A61K35/26",
+        "A61K38/00",
+        "A61K38/16",
+        "A61K38/45",
+        "A61K39/00",
+        "A61K39/395",
+        "A61P35/00",
+        "A61P37/04",
+        "C07H21/04",
+        "C07K14/47",
+        "C07K16/30",
+        "C12N15/09",
+        "C12N15/12",
+        "C12P21/02",
+        "C12P21/04",
+        "C12P21/08",
+        "C12R1/19",
+        "C12R1/91"
+      ],
+      "cos_raw": 0.7383,
+      "cos_norm": 0.9378,
+      "ipc_score": 1.0,
+      "final": 0.9565
+    },
+    {
+      "rank": 4,
+      "lens_id": "018-140-353-891-231",
+      "title": "Cancer vaccines and uses targeting PRAME",
+      "abstract": "This statement is initiated by the Nucleic Acid molecules, which include one or more nucleic acid sequence that encrypts mutated common PRAME antigens. Vectors, compositions and vaccines that include one or more nucleus sequences that encrypt mutated common PRAME antigens. PRAME-Therapeutic method o",
+      "ipc": [
+        "C07K14/475",
+        "A61K39/00",
+        "A61P35/00",
+        "C12N15/63"
+      ],
+      "cos_raw": 0.7309,
+      "cos_norm": 0.9191,
+      "ipc_score": 1.0,
+      "final": 0.9434
+    },
+    {
+      "rank": 5,
+      "lens_id": "195-723-538-278-727",
+      "title": "EPCAM-CD3 EPSILON BISPECIFIC ANTIBODIES",
+      "abstract": "The present invention is directed to bispecific humanized EPCAM CD3 epsilon chain (CD3e) antibodies. This invention provides different structures if EpCAM-CD3 antibody and provides methods of antibody production in cells through mRNA by in vitro transcription method. EpCAM-CD3 human Fc bispecific an",
+      "ipc": [
+        "C07K16/30",
+        "A61K39/395",
+        "A61P35/00",
+        "C07K16/28"
+      ],
+      "cos_raw": 0.7298,
+      "cos_norm": 0.9164,
+      "ipc_score": 1.0,
+      "final": 0.9415
+    },
+    {
+      "rank": 6,
+      "lens_id": "121-403-016-690-274",
+      "title": "ANTIBODIES TARGETING CDH19 FOR MELANOMA",
+      "abstract": "The present disclosure provides a human antibody or antigen binding fragment thereof or an antibody construct comprising a human binding domain or antigen binding fragment thereof capable of binding to human CDH19 on the surface of a target cell. The disclosure relates to a nucleic acid sequence enc",
+      "ipc": [
+        "C07K16/28",
+        "A61K47/48",
+        "A61P35/00",
+        "C07K16/30"
+      ],
+      "cos_raw": 0.7269,
+      "cos_norm": 0.9091,
+      "ipc_score": 1.0,
+      "final": 0.9364
+    },
+    {
+      "rank": 7,
+      "lens_id": "121-211-219-873-322",
+      "title": "Membrane anchor/active compound conjugate, its preparation and its uses",
+      "abstract": "According to certain embodiments, the invention relates to an immunoconjugate produced by conjugating at least one membrane-anchoring compound with at least one partial sequence of a protein of a virus, a bacterium, a parasite or a tumor antigen. The immunoconjugate has the advantage that it can be ",
+      "ipc": [
+        "A61K9/127",
+        "A61K38/00",
+        "A61K39/00",
+        "A61K39/385",
+        "A61K47/48",
+        "A61P35/00",
+        "A61P37/04",
+        "B01J20/32",
+        "C07K5/00",
+        "C07K5/083",
+        "C07K7/06",
+        "C07K14/09",
+        "C07K16/28",
+        "C07K17/02",
+        "G01N33/532"
+      ],
+      "cos_raw": 0.7202,
+      "cos_norm": 0.8923,
+      "ipc_score": 1.0,
+      "final": 0.9246
+    },
+    {
+      "rank": 8,
+      "lens_id": "114-119-906-222-788",
+      "title": "Glycan-dependent immunotherapy s",
+      "abstract": "[Problems] Provides composition and methods for treating cancer. [Solving method] The peptide containing the tumor-related sugar chain antigen (TACA) binding domain\u30c9\u30e1\u30a4\u30f3 from lectin is removed, and the above-mentioned TACA binding domain is a composition for treating cancer, which binds specifically ",
+      "ipc": [
+        "A61K38/16",
+        "A61K35/12",
+        "A61K35/17",
+        "A61K38/17",
+        "A61K39/00",
+        "A61K39/395",
+        "A61K47/64",
+        "A61K47/66",
+        "A61K47/68",
+        "A61K48/00",
+        "A61P35/00",
+        "A61P43/00",
+        "C07K16/18",
+        "C07K16/28",
+        "C07K16/46",
+        "C07K19/00",
+        "C12N5/10",
+        "C12N15/12",
+        "C12N15/13",
+        "C12N15/62"
+      ],
+      "cos_raw": 0.7181,
+      "cos_norm": 0.8871,
+      "ipc_score": 1.0,
+      "final": 0.921
+    },
+    {
+      "rank": 9,
+      "lens_id": "121-179-625-959-503",
+      "title": "CHIMERIC ANTIBODIES SPECIFIC FOR CD151 AND USE THEREOF IN THE TREATMENT OF CANCER",
+      "abstract": "The present invention relates to new antibodies capable of binding specifically to the human CD151 protein, especially monoclonal antibodies of murine origin, which are chimeric and humanised, and also to the amino acid and nucleic sequences coding for those antibodies. The invention also includes u",
+      "ipc": [
+        "C07K16/28",
+        "A61P35/00"
+      ],
+      "cos_raw": 0.7022,
+      "cos_norm": 0.8472,
+      "ipc_score": 1.0,
+      "final": 0.893
+    },
+    {
+      "rank": 10,
+      "lens_id": "121-305-419-625-355",
+      "title": "Methods and compositions for RNA-directed target DNA modification and for RNA-directed modulation of transcription",
+      "abstract": "The present disclosure provides a DNA-targeting RNA that comprises a targeting sequence and, together with a modifying polypeptide, provides for site-specific modification of a target DNA and/or a polypeptide associated with the target DNA. The present disclosure further provides site-specific modif",
+      "ipc": [
+        "C12N15/90",
+        "A01H6/46",
+        "A01K67/027",
+        "A61K38/46",
+        "A61K48/00",
+        "C12N9/22",
+        "C12N15/10",
+        "C12N15/11",
+        "C12N15/113",
+        "C12N15/63",
+        "C12N15/70",
+        "C12N15/74"
+      ],
+      "cos_raw": 0.7018,
+      "cos_norm": 0.8462,
+      "ipc_score": 1.0,
+      "final": 0.8923
+    }
+  ]
+}

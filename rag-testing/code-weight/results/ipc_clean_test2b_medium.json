@@ -1,0 +1,174 @@
+{
+  "system": "ipc-weighted-bge",
+  "query_file": "code-weight/inputs-clean/test2b_medium.json",
+  "variant": "clean",
+  "query_ipc": [
+    "A61B5/1455",
+    "A61B5/145",
+    "G01N21/3577"
+  ],
+  "alpha": 0.7,
+  "query_time_ms": 72.09,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "cos_raw": 0.758,
+      "cos_norm": 1.0,
+      "ipc_score": 1.0,
+      "final": 1.0
+    },
+    {
+      "rank": 2,
+      "lens_id": "179-839-611-547-108",
+      "title": "APPARATUS FOR MULTIMODAL ANALYSIS OF ALLERGIC REACTIONS IN SKIN TESTS AND A HYBRID METHOD FOR MULTISPECTRAL IMAGING OF ALLERGIC REACTIONS IN SKIN TESTS AND ITS USE FOR AUTOMATIC EVALUATION OF THE RESULTS OF THESE TESTS",
+      "abstract": "A multimodal apparatus for analysis of allergic reactions during skin tests and a method of multispectral imaging of allergic reactions in case of the type I and the type IV allergic reactions induced by performing skin allergy Prick and Patch tests combine thermal imaging with Laser Doppler flowmet",
+      "ipc": [
+        "A61B5/00",
+        "A61B5/01",
+        "A61B5/026"
+      ],
+      "cos_raw": 0.7117,
+      "cos_norm": 0.8914,
+      "ipc_score": 0.8,
+      "final": 0.8639
+    },
+    {
+      "rank": 3,
+      "lens_id": "003-835-298-386-377",
+      "title": "Folate targeted enhanced tumor and folate receptor positive tissue optical imaging technology",
+      "abstract": "A method of differentiating tumors from healthy cells in tissue is disclosed. The method includes the steps of providing a marker-folate conjugate, placing the marker-folate conjugate in contact with the tissue and viewing the tissue.",
+      "ipc": [
+        "A61K49/00",
+        "G01N21/64",
+        "G01N33/574",
+        "G01N33/82"
+      ],
+      "cos_raw": 0.7088,
+      "cos_norm": 0.8846,
+      "ipc_score": 0.8,
+      "final": 0.8592
+    },
+    {
+      "rank": 4,
+      "lens_id": "030-446-008-223-394",
+      "title": "SYSTEM, METHODS AND APPARATUSES FOR IN SITU ELECTROCHEMICAL IMAGING",
+      "abstract": "Systems, methods and apparatuses described herein generally provide a millimetre size package-free complementary metal-oxide-semiconductor (\u201cCMOS\u201d) chip (referred to as a \u201cdie\u201d) for the in situ (on-site) measurement or imaging of electrochemically detectable analytes.",
+      "ipc": [
+        "A61B5/1473",
+        "A61B5/00",
+        "A61B5/0536",
+        "A61B5/1477",
+        "H03M3/00"
+      ],
+      "cos_raw": 0.7066,
+      "cos_norm": 0.8795,
+      "ipc_score": 0.8,
+      "final": 0.8556
+    },
+    {
+      "rank": 5,
+      "lens_id": "174-896-901-311-338",
+      "title": "SYSTEM AND METHOD FOR DETERMINING AT LEAST ONE VITAL SIGN OF A SUBJECT",
+      "abstract": "The present invention relates to a system and method for determining a vital sign of a subject. To improve the detection of electromagnetic radiation reflected from or transmitted through skin of a subject (110) at least two differently modulated radiation sources (112, 114) are used. For both camer",
+      "ipc": [
+        "A61B5/024",
+        "A61B5/1455"
+      ],
+      "cos_raw": 0.6684,
+      "cos_norm": 0.7897,
+      "ipc_score": 1.0,
+      "final": 0.8528
+    },
+    {
+      "rank": 6,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "cos_raw": 0.7012,
+      "cos_norm": 0.8666,
+      "ipc_score": 0.8,
+      "final": 0.8466
+    },
+    {
+      "rank": 7,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "cos_raw": 0.6974,
+      "cos_norm": 0.8577,
+      "ipc_score": 0.8,
+      "final": 0.8404
+    },
+    {
+      "rank": 8,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "cos_raw": 0.696,
+      "cos_norm": 0.8546,
+      "ipc_score": 0.8,
+      "final": 0.8382
+    },
+    {
+      "rank": 9,
+      "lens_id": "030-843-118-138-915",
+      "title": "SYSTEMS AND METHODS FOR PROCESSING AND TRANSMITTING SENSOR DATA",
+      "abstract": "Systems and methods for processing, transmitting and displaying data received from an analyte sensor, such as a glucose sensor, are disclosed. In an embodiment, a method for transmitting data between a first communication device associated with an analyte sensor and a second communication device con",
+      "ipc": [
+        "H04B5/00",
+        "A61B5/145",
+        "A61B5/1486",
+        "A61B5/1495",
+        "G01N27/327",
+        "H04W4/80",
+        "H04W12/06",
+        "H04W52/02",
+        "H04W76/14"
+      ],
+      "cos_raw": 0.6582,
+      "cos_norm": 0.7658,
+      "ipc_score": 1.0,
+      "final": 0.836
+    },
+    {
+      "rank": 10,
+      "lens_id": "123-367-219-113-01X",
+      "title": "Physiological signal monitoring device",
+      "abstract": "A physiological signal monitoring device includes a base, a biosensor mounted to the base and adapted to measure an analytical substance, and a transmitter. The 5 base includes a flexible base body and a first coupling structure. The first coupling structure is disposed on the base body. The transmi",
+      "ipc": [
+        "A61B5/1473"
+      ],
+      "cos_raw": 0.6929,
+      "cos_norm": 0.8471,
+      "ipc_score": 0.8,
+      "final": 0.833
+    }
+  ]
+}

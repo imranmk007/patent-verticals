@@ -1,0 +1,147 @@
+{
+  "system": "bm25",
+  "query_file": "test2c_long.txt",
+  "index_time_ms": 199.6,
+  "query_time_ms": 78.67,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "066-271-446-159-278",
+      "title": "HEAD-UP DISPLAY DEVICE",
+      "abstract": "The purpose of the present invention is to control heat generation by infrared rays and degradation by ultraviolet rays of an intermediate screen (2). This head-up display device is provided with: the intermediate screen (2) whereon an image projected from an image forming unit (1) is formed; an enl",
+      "ipc": [
+        "G02B27/01",
+        "B60K35/00"
+      ],
+      "score": 55.9259
+    },
+    {
+      "rank": 2,
+      "lens_id": "055-128-765-435-777",
+      "title": "DEVICES, SYSTEMS, AND METHODS FOR PREDICTING BLOOD GLUCOSE LEVELS BASED ON A PERSONALIZED BLOOD GLUCOSE REGULATION MODEL",
+      "abstract": "The present disclosure provides devices, systems, and methods for optimizing blood glucose level regulation by predicting blood glucose levels based on personalized blood glucose regulation models. In some exemplary embodiments, a computer-implemented method of blood glucose level regulation include",
+      "ipc": [
+        "G09B19/00",
+        "A61B5/00",
+        "B60Q9/00",
+        "G06N20/00",
+        "G16H10/60",
+        "G16H20/60",
+        "G16H50/20",
+        "G16H50/50"
+      ],
+      "score": 54.6923
+    },
+    {
+      "rank": 3,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 52.2336
+    },
+    {
+      "rank": 4,
+      "lens_id": "043-718-740-173-031",
+      "title": "Filters, imaging devices and optical sensors",
+      "abstract": "This invention involved filters, imaging devices and optical sensors. This invention involves a filter with an average internal penetration rate of more than 90 per cent for the light in the film, an average internal penetration rate of 590 nm ~630 nm for the reflection layer, an average internal pe",
+      "ipc": [
+        "G02B5/22",
+        "G02B5/20",
+        "G02B5/26",
+        "G03B11/00"
+      ],
+      "score": 44.9498
+    },
+    {
+      "rank": 5,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "score": 44.4334
+    },
+    {
+      "rank": 6,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "score": 44.3326
+    },
+    {
+      "rank": 7,
+      "lens_id": "028-984-183-086-637",
+      "title": "DUAL MODE CAMERA AND QUASI-BANDPASS FILTER",
+      "abstract": "A dual mode camera may have a camera module and a light source. The camera module may include a quasi-bandpass filter for passing visible light and passing an attenuated portion of near-infrared light to an image sensor for detection. A processor may determine an ambient lighting condition correspon",
+      "ipc": [
+        "H04N23/11",
+        "H04N7/18",
+        "H04N23/667",
+        "H04N23/71",
+        "H04N23/74",
+        "H04N23/86",
+        "H04N23/88",
+        "H04N25/131"
+      ],
+      "score": 41.3326
+    },
+    {
+      "rank": 8,
+      "lens_id": "094-107-074-422-354",
+      "title": "Tissue targeted antigenic activation of the immune response to treat cancers",
+      "abstract": "The invention provides in part methods of treating cancers of a specific organ or tissue by administering a composition that is antigenically specific for one or more microbes that are pathogenic in the specific organ or tissue in which the cancer is situated. The formulations of the invention there",
+      "ipc": [
+        "A61K39/108"
+      ],
+      "score": 40.3154
+    },
+    {
+      "rank": 9,
+      "lens_id": "160-777-097-991-802",
+      "title": "Color measurement method and equipment for calibration of tiled LED display screen",
+      "abstract": "This application is to establish the beam from the tiled LED display screen by the objective lens, and to obtain the first beam and the second beam from the objective lens by the half mirror, and to receive the first beam by the tube sensor, obtain the original image, and receive the second beam as ",
+      "ipc": [
+        "G09F9/00",
+        "G01J3/46",
+        "G01M11/00",
+        "G09F9/33",
+        "G09F9/40",
+        "G09G3/20",
+        "G09G3/32"
+      ],
+      "score": 39.952
+    },
+    {
+      "rank": 10,
+      "lens_id": "155-026-594-554-963",
+      "title": "Use of laser light and red-green-blue coloration to determine properties of back scattered light",
+      "abstract": "A surgical image acquisition system includes multiple illumination sources, each source emitting light at a specified wavelength, a light sensor to receive light reflected from a tissue sample illuminated by each of the illumination sources, and a computing system. The computer system may receive da",
+      "ipc": [
+        "G06T7/00",
+        "A61B1/04",
+        "A61B1/06",
+        "H04N9/64"
+      ],
+      "score": 39.5416
+    }
+  ]
+}

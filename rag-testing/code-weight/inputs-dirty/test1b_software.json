@@ -1,0 +1,8 @@
+{
+  "document": "A federated machine learning system and method address the technical problem of training high-accuracy predictive models across heterogeneous, data-rich edge devices while preserving data locality and eliminating transmission of privacy-sensitive raw training samples to a centralized infrastructure. The disclosed system comprises a coordinating aggregation server, a plurality of participating edge nodes each maintaining a local dataset and a local model replica, and a secure parameter-exchange protocol layer. During each federated round, each edge node independently computes gradient updates or weight differentials on locally held data and transmits only compressed model parameters to the aggregation server, which applies a weighted averaging procedure to produce an updated global model subsequently redistributed to all nodes. Differential privacy mechanisms and cryptographic masking are selectively applied prior to parameter upload to bound individual-sample inference risk. The invention achieves convergence rates comparable to centralized training while reducing inter-node communication overhead, satisfying regulatory data-residency requirements, and enabling collaborative learning across organizationally and geographically partitioned datasets.",
+  "ipc_classifications": [
+    "A01D34/00",
+    "B65D85/00",
+    "E21B43/00"
+  ]
+}

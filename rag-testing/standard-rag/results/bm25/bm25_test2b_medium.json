@@ -1,0 +1,140 @@
+{
+  "system": "bm25",
+  "query_file": "test2b_medium.txt",
+  "index_time_ms": 198.0,
+  "query_time_ms": 52.48,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "043-718-740-173-031",
+      "title": "Filters, imaging devices and optical sensors",
+      "abstract": "This invention involved filters, imaging devices and optical sensors. This invention involves a filter with an average internal penetration rate of more than 90 per cent for the light in the film, an average internal penetration rate of 590 nm ~630 nm for the reflection layer, an average internal pe",
+      "ipc": [
+        "G02B5/22",
+        "G02B5/20",
+        "G02B5/26",
+        "G03B11/00"
+      ],
+      "score": 74.6173
+    },
+    {
+      "rank": 2,
+      "lens_id": "182-564-759-832-624",
+      "title": "OPTICAL FILM AND DISPLAY DEVICE",
+      "abstract": "An optical film includes a transparent substrate, one or more colored layers that contain a colorant and are provided on the transparent substrate, and one or more functional layers that are provided on a side opposite to that on which the transparent substrate is disposed, with the one or more colo",
+      "ipc": [
+        "H10K59/00",
+        "B32B7/023",
+        "B32B27/16",
+        "B32B27/18",
+        "B32B27/20",
+        "G02B1/111",
+        "G02B1/14",
+        "G02B1/16",
+        "G02B1/18",
+        "G02B5/22",
+        "G09F9/30",
+        "H05B33/02",
+        "H05B33/04",
+        "H05B33/14"
+      ],
+      "score": 56.7365
+    },
+    {
+      "rank": 3,
+      "lens_id": "066-271-446-159-278",
+      "title": "HEAD-UP DISPLAY DEVICE",
+      "abstract": "The purpose of the present invention is to control heat generation by infrared rays and degradation by ultraviolet rays of an intermediate screen (2). This head-up display device is provided with: the intermediate screen (2) whereon an image projected from an image forming unit (1) is formed; an enl",
+      "ipc": [
+        "G02B27/01",
+        "B60K35/00"
+      ],
+      "score": 56.2717
+    },
+    {
+      "rank": 4,
+      "lens_id": "164-832-590-982-293",
+      "title": "OPTICAL FILTER",
+      "abstract": "To provide an optical filter having excellent transmittability of near-infrared light of 800 nm or more and excellent shielding properties of visible light of 400 to 680 nm.SOLUTION: In an optical filter having a base material, and a dielectric multilayered film laminated in at least one main surfac",
+      "ipc": [
+        "G02B5/28"
+      ],
+      "score": 56.2628
+    },
+    {
+      "rank": 5,
+      "lens_id": "019-168-285-119-821",
+      "title": "DERMAL DELIVERY",
+      "abstract": "The present invention describes systems and methods for treating disorders and/or conditions associated with the dermal level of the skin. Such disorders include acne, hyperhidrosis, bromhidrosis, chromhidrosis, rosacea, hair loss, dermal infection, and/or actinic keratosis. Methods generally involv",
+      "ipc": [
+        "A61K9/51",
+        "A61K31/48"
+      ],
+      "score": 54.6629
+    },
+    {
+      "rank": 6,
+      "lens_id": "045-351-337-759-627",
+      "title": "LIGHT ABSORBING COMPOSITION AND OPTICAL FILTER",
+      "abstract": "A light absorbing composition contains a light absorbent which is formed from a specific phosphonic acid and a copper ion, and an alkoxy silane monomer in which the light absorbent is dispersed; but this light absorbing composition does not contain a phosphoric acid ester which has a polyoxyalkyl gr",
+      "ipc": [
+        "G02B5/22",
+        "C08K5/5317",
+        "C08L83/04"
+      ],
+      "score": 52.9439
+    },
+    {
+      "rank": 7,
+      "lens_id": "017-236-456-815-610",
+      "title": "Device and method for treating skin",
+      "abstract": "A system and method for heating a tissue volume under a skin surface of an individual from an initial temperature to a predetermined treatment temperature in the range of 42\u00b0-60\u00b0 C. The method comprises applying electrodes to the skin surface and providing from the electrodes a continuous wave RF en",
+      "ipc": [
+        "A61F2/00"
+      ],
+      "score": 48.1591
+    },
+    {
+      "rank": 8,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 48.0216
+    },
+    {
+      "rank": 9,
+      "lens_id": "133-823-822-329-295",
+      "title": "COMPOSITIONS AND METHODS FOR TREATING SKIN CONDITIONS USING INFRARED LIGHT AND RESORCINOLS",
+      "abstract": "The present invention relates to compositions and methods for treating skin conditions using infrared light and resorcinols, and provides compositions, methods and kits for treating skin, which combine administration of a substituted resorcinol and infrared light having a peak wavelength of about 75",
+      "ipc": [
+        "A61K31/05",
+        "A61K9/00",
+        "A61N5/06",
+        "A61P17/18"
+      ],
+      "score": 45.792
+    },
+    {
+      "rank": 10,
+      "lens_id": "028-984-183-086-637",
+      "title": "DUAL MODE CAMERA AND QUASI-BANDPASS FILTER",
+      "abstract": "A dual mode camera may have a camera module and a light source. The camera module may include a quasi-bandpass filter for passing visible light and passing an attenuated portion of near-infrared light to an image sensor for detection. A processor may determine an ambient lighting condition correspon",
+      "ipc": [
+        "H04N23/11",
+        "H04N7/18",
+        "H04N23/667",
+        "H04N23/71",
+        "H04N23/74",
+        "H04N23/86",
+        "H04N23/88",
+        "H04N25/131"
+      ],
+      "score": 45.4036
+    }
+  ]
+}
