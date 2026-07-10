@@ -295,13 +295,13 @@ positive. Instead, I use a \textbf{top-$k$ average}. Here, $k$ scales with how m
 chunks the query produced:
 
 \[
-  k = \text{clamp}\big(\text{round}(0.1 \times \text{num\_chunks}),\ 2,\ 40\big)
+  k = \text{clamp}\big(\text{round}(0.1 \times \text{num\_chunks}),\ 3,\ 80\big)
 \]
 
 In other words, I average the $k$ best-scoring chunks for each document, where $k$
-is 10 percent of the total chunk count. I set a floor of 2 for $k$, so short
+is 10 percent of the total chunk count. I set a floor of 3 for $k$, so short
 documents still get some averaging instead of pure max-pooling. I also set a cap of
-40, so very long documents do not dilute back toward a corpus-wide mean, which would
+80, so very long documents do not dilute back toward a corpus-wide mean, which would
 wash out real signal. As a result, a document needs several consistently
 strong-matching chunks to rank highly. A single spurious hit in an otherwise
 irrelevant document is not enough on its own.

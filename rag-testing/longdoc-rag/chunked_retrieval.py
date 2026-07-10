@@ -31,8 +31,8 @@ CHUNK_SIZE_TOKENS  = 300    # tokens per chunk (BGE-small's max sequence length 
 CHUNK_OVERLAP_PCT  = 0.15   # fraction of chunk_size shared between consecutive chunks
 
 TOPK_PROPORTION = 0.1   # fraction of a document's chunks averaged for its final score
-TOPK_MIN        = 2     # floor, so short queries don't over-dilute
-TOPK_MAX        = 40    # cap, so very long queries don't wash out into a corpus-wide mean
+TOPK_MIN        = 3     # floor, so short queries don't over-dilute
+TOPK_MAX        = 80    # cap, so very long queries don't wash out into a corpus-wide mean
 
 # ------------------------------------------------------------------------------
 

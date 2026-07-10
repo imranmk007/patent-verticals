@@ -1,25 +1,3 @@
-"""
-IPC-weighted dense retrieval over the lens-db corpus.
-
-Fuses BGE-small-en-v1.5 cosine similarity with an IPC-taxonomy similarity score
-so that ranking reflects BOTH semantic text match AND patent-classification match.
-
-    Score_final = alpha * cos_norm + (1 - alpha) * ipc_score
-
-Inputs are JSON files of the form:
-    { "document": "<query text>", "ipc_classifications": ["A61K9/51", ...] }
-
-Two input sets live under code-weight/:
-    inputs-clean/  -> IPC codes are semantically relevant to the document
-    inputs-dirty/  -> IPC codes are from unrelated sections (sanity check that
-                      the IPC weighting actually moves the ranking)
-
-Reuses the embedding + metadata cache built by bge_retrieval.py (results/bge/),
-so the corpus order is guaranteed to match the embeddings.
-
-To run: set QUERY_FILE below and hit Run.
-"""
-
 import json
 import time
 import numpy as np
@@ -27,19 +5,11 @@ from pathlib import Path
 
 from sentence_transformers import SentenceTransformer
 
-# -- Configure here ------------------------------------------------------------
+
 
 QUERY_FILE = Path(__file__).parent / "inputs-clean/test1a_biotech.json"  # <- change this
 ALPHA      = 0.7    # weight on the (normalized) cosine score; (1-ALPHA) on IPC
 TOP_K      = 10
-
-# inputs-clean/test1a_biotech.json   | inputs-dirty/test1a_biotech.json
-# inputs-clean/test1b_software.json  | inputs-dirty/test1b_software.json
-# inputs-clean/test1c_semiconductors.json | ...
-# inputs-clean/test2a_short.json ... test3c_long.json (and the dirty mirrors)
-
-# ------------------------------------------------------------------------------
-
 MODEL_NAME       = "BAAI/bge-small-en-v1.5"
 QUERY_PREFIX     = "Represent this sentence for searching relevant passages: "
 # Embedding cache is shared with bge_retrieval.py and lives one level up.

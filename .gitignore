@@ -12,6 +12,8 @@ lens-db/final-data/lens-db-translated.json
 # only exclude the raw unprocessed source file
 initial-datasets/lens-db/final-data/lens-raw.jsonl
 
-# duplicate corpus copy used locally by code-weight/; canonical copy lives
-# under initial-datasets/lens-db/final-data/ and is tracked via git-lfs
+# duplicate corpus copies used locally by code-weight/ and longdoc-rag/;
+# canonical copy lives under initial-datasets/lens-db/final-data/ and is
+# tracked via git-lfs
 rag-testing/code-weight/lens-db-translated.json
+rag-testing/longdoc-rag/lens-db-translated.json
