@@ -1,0 +1,163 @@
+{
+  "system": "bge",
+  "query_file": "test1a_biotech.txt",
+  "index_time_ms": 1.9,
+  "query_time_ms": 0.17,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "094-159-445-714-140",
+      "title": "Restoration of tumor suppression using MRNA-based delivery system",
+      "abstract": "Compositions and methods for treating cancer that include administering a therapeutically effective amount of a tumor suppressor mRNA complexed with a delivery vehicle as described herein, e.g., a nanoparticle.",
+      "ipc": [
+        "C07H21/04",
+        "A61K9/51",
+        "A61K38/46",
+        "A61K47/59",
+        "A61P35/00"
+      ],
+      "score": 0.7631
+    },
+    {
+      "rank": 2,
+      "lens_id": "094-333-648-314-770",
+      "title": "NANOSTRUCTURED DRUG DELIVERY SYSTEM AS A MULTIFUNCTIONAL PLATFORM FOR THERAPY",
+      "abstract": "The present invention discloses a drug delivery system for targeted therapy comprising a functionalized lipid-based nanoplatform, where at least one ligand is coupled to the surface of the nanoplatform and encapsulates at least one pharmaceutically active ingredient. A process for obtaining the drug",
+      "ipc": [
+        "A61K47/55",
+        "A61K9/00",
+        "A61K31/12",
+        "A61K31/40",
+        "A61K47/61",
+        "A61K47/62",
+        "A61K47/69",
+        "A61P35/00",
+        "B82Y5/00"
+      ],
+      "score": 0.7528
+    },
+    {
+      "rank": 3,
+      "lens_id": "180-241-661-489-005",
+      "title": "Peptides and combination of peptides for use in immunotherapy against prostate cancer and other cancers",
+      "abstract": "The present invention relates to peptides, proteins, nucleic acids and cells for use in immunotherapeutic methods. In particular, the present invention relates to the immunotherapy of cancer. The present invention furthermore relates to tumor associated T-cell peptide epitopes, alone or in combinati",
+      "ipc": [
+        "A61K39/00",
+        "A61K38/00",
+        "C07K14/47",
+        "C07K14/725",
+        "C07K16/30",
+        "C12N5/0783",
+        "C12N15/115",
+        "C12Q1/6886",
+        "G01N33/574",
+        "G01N33/68"
+      ],
+      "score": 0.7521
+    },
+    {
+      "rank": 4,
+      "lens_id": "094-107-074-422-354",
+      "title": "Tissue targeted antigenic activation of the immune response to treat cancers",
+      "abstract": "The invention provides in part methods of treating cancers of a specific organ or tissue by administering a composition that is antigenically specific for one or more microbes that are pathogenic in the specific organ or tissue in which the cancer is situated. The formulations of the invention there",
+      "ipc": [
+        "A61K39/108"
+      ],
+      "score": 0.744
+    },
+    {
+      "rank": 5,
+      "lens_id": "094-031-697-023-730",
+      "title": "Pharmaceutical composition for treatment and/or prevention of cancer",
+      "abstract": "It is intended to provide a CAPRIN-1-targeting antibody superior in antitumor activity to conventional antibodies, and use thereof as a therapeutic and/or preventive agent for a cancer. The present invention provides an antibody targeting a CAPRIN-1 polypeptide specifically expressed on the surface ",
+      "ipc": [
+        "C07K16/30",
+        "A61K39/00",
+        "A61K39/395",
+        "A61K45/06",
+        "A61K47/68",
+        "C07K16/28"
+      ],
+      "score": 0.7401
+    },
+    {
+      "rank": 6,
+      "lens_id": "003-810-812-172-486",
+      "title": "Methods for enhancing an immune response from a 43 KD human cancer antigen",
+      "abstract": "A tumor associated protein has been discovered to exhibit immunoreactivity to human monoclonal antibody L92. A ten amino acid peptide segment of the protein and a fourteen amino acid peptide which contains the ten amino acid peptide has also been isolated and exhibits immunoreactivity to the same an",
+      "ipc": [
+        "C12N15/02",
+        "A61K35/17",
+        "A61K35/26",
+        "A61K38/00",
+        "A61K38/16",
+        "A61K38/45",
+        "A61K39/00",
+        "A61K39/395",
+        "A61P35/00",
+        "A61P37/04",
+        "C07H21/04",
+        "C07K14/47",
+        "C07K16/30",
+        "C12N15/09",
+        "C12N15/12",
+        "C12P21/02",
+        "C12P21/04",
+        "C12P21/08",
+        "C12R1/19",
+        "C12R1/91"
+      ],
+      "score": 0.7383
+    },
+    {
+      "rank": 7,
+      "lens_id": "020-931-501-794-357",
+      "title": "Suitability for personal health-care applications Body",
+      "abstract": "One or more oligonucleotides, including DNA, nucleotide, DNA derivatives, nucleotide derivatives, or at least one of their mixtures, have been disclosed. The adaptive mass has the combined proteomic strength of a cell membrane protein of one or more groups of free choice: Intercellular bonding molec",
+      "ipc": [
+        "C12N15/115",
+        "A61K8/60",
+        "A61K31/712",
+        "A61P31/16"
+      ],
+      "score": 0.7365
+    },
+    {
+      "rank": 8,
+      "lens_id": "003-924-580-751-969",
+      "title": "Methods and compositions for targeted imaging",
+      "abstract": "A new approach to targeting imaging agents to macrophage-rich sites of interest is disclosed. Compositions of the invention are rHDL and HDL-like liposomal compositions, protein constituents of which, apolipoproteins A-I and/or A-II or fragments thereof are used not only as structural but also as ta",
+      "ipc": [
+        "A61K51/12"
+      ],
+      "score": 0.7327
+    },
+    {
+      "rank": 9,
+      "lens_id": "018-140-353-891-231",
+      "title": "Cancer vaccines and uses targeting PRAME",
+      "abstract": "This statement is initiated by the Nucleic Acid molecules, which include one or more nucleic acid sequence that encrypts mutated common PRAME antigens. Vectors, compositions and vaccines that include one or more nucleus sequences that encrypt mutated common PRAME antigens. PRAME-Therapeutic method o",
+      "ipc": [
+        "C07K14/475",
+        "A61K39/00",
+        "A61P35/00",
+        "C12N15/63"
+      ],
+      "score": 0.7309
+    },
+    {
+      "rank": 10,
+      "lens_id": "195-723-538-278-727",
+      "title": "EPCAM-CD3 EPSILON BISPECIFIC ANTIBODIES",
+      "abstract": "The present invention is directed to bispecific humanized EPCAM CD3 epsilon chain (CD3e) antibodies. This invention provides different structures if EpCAM-CD3 antibody and provides methods of antibody production in cells through mRNA by in vitro transcription method. EpCAM-CD3 human Fc bispecific an",
+      "ipc": [
+        "C07K16/30",
+        "A61K39/395",
+        "A61P35/00",
+        "C07K16/28"
+      ],
+      "score": 0.7298
+    }
+  ]
+}

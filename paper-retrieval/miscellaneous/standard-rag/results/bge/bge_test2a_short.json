@@ -1,0 +1,124 @@
+{
+  "system": "bge",
+  "query_file": "test2a_short.txt",
+  "index_time_ms": 1.9,
+  "query_time_ms": 0.15,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "score": 0.7846
+    },
+    {
+      "rank": 2,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 0.7592
+    },
+    {
+      "rank": 3,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "score": 0.7384
+    },
+    {
+      "rank": 4,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "score": 0.7365
+    },
+    {
+      "rank": 5,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "score": 0.7296
+    },
+    {
+      "rank": 6,
+      "lens_id": "123-367-219-113-01X",
+      "title": "Physiological signal monitoring device",
+      "abstract": "A physiological signal monitoring device includes a base, a biosensor mounted to the base and adapted to measure an analytical substance, and a transmitter. The 5 base includes a flexible base body and a first coupling structure. The first coupling structure is disposed on the base body. The transmi",
+      "ipc": [
+        "A61B5/1473"
+      ],
+      "score": 0.7264
+    },
+    {
+      "rank": 7,
+      "lens_id": "076-483-861-817-861",
+      "title": "PRECISION DELIVERY OF ENERGY UTILIZING HOLOGRAPHIC ENERGY TELEPORTATION (HET) WITH TIME-CORRELATED STANDING-WAVE INTERFERENCE AND COHERENT INTENSITY AMPLIFICATION",
+      "abstract": "By producing the proper wave interference using superimposed waves that overlap with the proper time-phase relationship (called \"Time-Correlated Standing-wave Interference\"), wave energy is amplified (by \"Coherent Intensity Amplification\") and teleported to precise locations. For instance, in one ap",
+      "ipc": [
+        "A61N1/02"
+      ],
+      "score": 0.7256
+    },
+    {
+      "rank": 8,
+      "lens_id": "106-938-270-521-676",
+      "title": "Wearable biomonitor with flexible thinned integrated circuit",
+      "abstract": "A sensor system ( 30 ) has a sensor module ( 10 ) and a receiver module ( 45 ). The sensor module ( 10 ) functions as a wireless data collection device and has a flexible thin sheet of silicon ( 60, 65, 70 ) comprising circuitry ( 71, 72, 73 ), a flexible power source ( 105 ), and a flexible support",
+      "ipc": [
+        "H01L21/68"
+      ],
+      "score": 0.722
+    },
+    {
+      "rank": 9,
+      "lens_id": "096-520-862-978-646",
+      "title": "NEGATIVE PRESSURE WOUND THERAPY DRESSINGS COMPRISING (METH)ACRYLATE PRESSURE-SENSITIVE ADHESIVE WITH ENHANCED ADHESION TO WET SURFACES",
+      "abstract": "Negative pressure wound dressings comprising pressure-sensitive adhesives with enhanced adhesion to wet surfaces, obtained from crosslinking a pre-adhesive composition comprising poly(meth)acrylate macromolecules that comprise a number-average molecular weight of from about 25000 to about 200000, an",
+      "ipc": [
+        "A61L15/58",
+        "A61F13/02",
+        "A61M1/00"
+      ],
+      "score": 0.7177
+    },
+    {
+      "rank": 10,
+      "lens_id": "022-929-680-198-517",
+      "title": "Boxel tagging with optical fiber shaped sensing",
+      "abstract": "The boxel tagging system 100 includes a sensible device104 (brag grid sensor) with fiber 126 configured to detect in  distortion in the device. The interpretation module 112 is composed to interpret this signal, for example, to receive signals from fiber optics interacting with internal organs such ",
+      "ipc": [
+        "A61B5/107",
+        "A61B5/11"
+      ],
+      "score": 0.7175
+    }
+  ]
+}

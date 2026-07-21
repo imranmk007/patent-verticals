@@ -1,0 +1,131 @@
+{
+  "system": "minilm",
+  "query_file": "test2a_short.txt",
+  "index_time_ms": 3.9,
+  "query_time_ms": 1.18,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "108-184-247-341-866",
+      "title": "TRANSCUTANEOUS ANALYTE SENSOR",
+      "abstract": "Abstract of the Disclosure The present invention relates generally to systems and methods for measuring an analyte in a host. More particularly, the present invention relates to systems and methods for transcutaneous measurement of glucose in a host.",
+      "ipc": [
+        "A61B5/05"
+      ],
+      "score": 0.6524
+    },
+    {
+      "rank": 2,
+      "lens_id": "094-015-955-614-438",
+      "title": "Method and device for early signal attenuation detection using blood glucose measurements",
+      "abstract": "Methods and devices to detect analyte in body fluid are provided. Embodiments include receiving one or more analyte sensor data, receiving a reference measurement value associated with an analyte level, determining a sensitivity parameter based on the received one or more analyte sensor data and the",
+      "ipc": [
+        "G16B40/10",
+        "G16H10/60"
+      ],
+      "score": 0.6194
+    },
+    {
+      "rank": 3,
+      "lens_id": "078-561-047-588-877",
+      "title": "INSERT NEEDLE FOR CONTINUOUS GLUCOSE MONITORING SYSTEM",
+      "abstract": "This invention is related to the insert guide needles for continuous blood sugar measurement devices, so that the skin is in contact with the skin during the skin insertion process, so it can minimize pain in the skin insertion process, reducing the use of continuous blood sugar measurement devices,",
+      "ipc": [
+        "A61B5/15",
+        "A61B5/145"
+      ],
+      "score": 0.6168
+    },
+    {
+      "rank": 4,
+      "lens_id": "124-547-252-097-837",
+      "title": "Percutaneous biological fluid sampling and analyte measurement devices and methods",
+      "abstract": "Devices and methods for sampling a biological fluid and measuring a target constituent within the biological fluid are provided. Generally, the subject devices include a sampling device configured to pierce a skin surface to provide access to biological fluid and concentrically-spaced working and re",
+      "ipc": [
+        "G01N33/48",
+        "A61B5/00",
+        "A61B5/1473",
+        "A61B5/15",
+        "A61B5/151",
+        "G01N27/28",
+        "G01N27/327",
+        "G01N33/487",
+        "G01N33/66"
+      ],
+      "score": 0.5309
+    },
+    {
+      "rank": 5,
+      "lens_id": "060-068-920-292-18X",
+      "title": "Modular patient monitor",
+      "abstract": "A modular patient monitor provides a multipurpose, scalable solution for various patient monitoring applications. In an embodiment, a modular patient monitor utilizes multiple wavelength optical sensor and/or acoustic sensor technologies to provide blood constituent monitoring and acoustic respirati",
+      "ipc": [
+        "G08B23/00",
+        "G08B13/22"
+      ],
+      "score": 0.5276
+    },
+    {
+      "rank": 6,
+      "lens_id": "047-380-942-589-465",
+      "title": "Detection methods and devices",
+      "abstract": "This application discloses detection methods and devices in the field of detection techniques. This will be done by: responding to the placement of the hands of the user to be tested in the pre-set interactive area of the detection device, implementing the following detection steps: sending a teleco",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/026",
+        "A61B5/0531"
+      ],
+      "score": 0.5216
+    },
+    {
+      "rank": 7,
+      "lens_id": "106-938-270-521-676",
+      "title": "Wearable biomonitor with flexible thinned integrated circuit",
+      "abstract": "A sensor system ( 30 ) has a sensor module ( 10 ) and a receiver module ( 45 ). The sensor module ( 10 ) functions as a wireless data collection device and has a flexible thin sheet of silicon ( 60, 65, 70 ) comprising circuitry ( 71, 72, 73 ), a flexible power source ( 105 ), and a flexible support",
+      "ipc": [
+        "H01L21/68"
+      ],
+      "score": 0.5184
+    },
+    {
+      "rank": 8,
+      "lens_id": "145-360-600-549-863",
+      "title": "NON-INVASIVE MEASUREMENT SYSTEM AND METHOD USING SINGLE-SHOT SPECTRAL-DOMAIN INTERFEROMETRIC NEAR-INFRARED SPECTROSCOPY BASED ON ORTHOGONAL DISPERSION",
+      "abstract": "An optical measurement system comprises an optical source configured for generating source light having an optical wavelength spectrum. The optical measurement system compises an interferometer configured for splitting the source light into sample light and reference light. The interferometer is fur",
+      "ipc": [
+        "A61B5/00",
+        "G01B9/02",
+        "G01B11/22"
+      ],
+      "score": 0.5124
+    },
+    {
+      "rank": 9,
+      "lens_id": "040-209-795-856-871",
+      "title": "SYSTEM AND METHOD FOR MEASURING ANALYTE CONCENTRATION IN BODILY FLUIDS",
+      "abstract": "A system and kit for measuring analyte concentration in a bodily fluid include a durable component, at least one indicator component including an indicator zone, and at least one moisture sensor. The kit has multiple individually packaged indicator components. Methods of measuring analyte concentrat",
+      "ipc": [
+        "G01N21/78",
+        "A61F13/42",
+        "A61F13/49",
+        "C12Q1/26",
+        "C12Q1/28",
+        "G01N33/493"
+      ],
+      "score": 0.5079
+    },
+    {
+      "rank": 10,
+      "lens_id": "153-064-920-980-592",
+      "title": "Detection method and device",
+      "abstract": "The invention discloses a detection method and device, and relates to the technical field of detection. The specific implementation mode comprises the following steps that in response to the situationthat the two hands of a user to be detected are placed in a preset interaction area of the detection",
+      "ipc": [
+        "A61B5/0205",
+        "A61B5/026",
+        "A61B5/0531"
+      ],
+      "score": 0.4918
+    }
+  ]
+}

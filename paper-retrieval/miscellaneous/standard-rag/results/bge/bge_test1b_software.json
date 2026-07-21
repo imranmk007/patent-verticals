@@ -1,0 +1,136 @@
+{
+  "system": "bge",
+  "query_file": "test1b_software.txt",
+  "index_time_ms": 1.9,
+  "query_time_ms": 0.16,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "099-251-564-736-493",
+      "title": "Distributed Adversarial Training for Robust Deep Neural Networks",
+      "abstract": "Scalable distributed adversarial training techniques for robust deep neural networks are provided. In one aspect, a method for adversarial training of a deep neural network-based model by distributed computing machines M includes, by distributed computing machines M: obtaining adversarial perturbati",
+      "ipc": [
+        "G06N3/08",
+        "G06N3/04"
+      ],
+      "score": 0.7646
+    },
+    {
+      "rank": 2,
+      "lens_id": "177-559-383-000-872",
+      "title": "UPDATING MACHINE LEARNING TRAINING DATA USING GRAPHICAL INPUTS",
+      "abstract": "Techniques are disclosed for using a machine learning model to identify and present a ranked array of interface elements representing entities. The location of individual interface elements within the ranked array of interface elements is based on a level of match between entity attributes and a set",
+      "ipc": [
+        "G06N20/00",
+        "G06N5/04"
+      ],
+      "score": 0.7452
+    },
+    {
+      "rank": 3,
+      "lens_id": "171-639-588-674-362",
+      "title": "EFFICIENT DATABASE MACHING LEARNING VERIFICATION",
+      "abstract": "An example operation may include one or more of generating, by a training participant client comprising a training dataset, a plurality of transaction proposals that each correspond to a training iteration for machine learning model training related to stochastic gradient descent, the machine learni",
+      "ipc": [
+        "G06F16/27",
+        "G06F21/62",
+        "G06F21/64",
+        "G06N20/00"
+      ],
+      "score": 0.7446
+    },
+    {
+      "rank": 4,
+      "lens_id": "039-280-787-398-395",
+      "title": "Distributed computing system for benefits processing using patient-centric profiling and machine learning",
+      "abstract": "A computing system enables individuals and organizations to self-insure a benefit, e.g., a dental plan benefit. The system leverages a patient-centric data construct that evolves in a multi-dimensional manner as a patient continuously interacts with the system, its providers, participating organizat",
+      "ipc": [
+        "G06Q40/08",
+        "G06N20/00",
+        "G06Q10/10",
+        "G16H10/60"
+      ],
+      "score": 0.7439
+    },
+    {
+      "rank": 5,
+      "lens_id": "087-120-854-030-928",
+      "title": "IMPROVED FLUID DISPENSING PROCESS CONTROL USING MACHINE LEARNING AND SYSTEM IMPLEMENTING THE SAME",
+      "abstract": "Systems and methods for improved fluid dispensing process control using a machine learning tool are disclosed. In an example method, successive portions of viscous fluid are dispensed by a dispensing device according to operating parameters to train a machine learning tool to associate defect classi",
+      "ipc": [
+        "B05C5/02",
+        "B05C11/10",
+        "G01N15/14",
+        "G06T7/00"
+      ],
+      "score": 0.7432
+    },
+    {
+      "rank": 6,
+      "lens_id": "012-642-432-938-642",
+      "title": "AUTOMATED MACHINE LEARNING TAGGING AND OPTIMIZATION OF REVIEW PROCEDURES",
+      "abstract": "Techniques for machine learning optimization are provided. A video comprising a plurality of segments is received, and a first segment of the plurality of segments is processed with a machine learning (ML) model to generate a plurality of tags, where each of the plurality of tags indicates presence ",
+      "ipc": [
+        "G06N20/00",
+        "G06K9/00",
+        "G06K9/62"
+      ],
+      "score": 0.7347
+    },
+    {
+      "rank": 7,
+      "lens_id": "198-331-535-379-246",
+      "title": "SYSTEM AND METHOD OF INTELLIGENT DETECTION OF DATA MODEL FIELDNAME LINEAGE AND CONTEXT OF PRIVATE INDIVIDUAL DATA IN BUSINESS INTEGRATION PROCESSES",
+      "abstract": "An information handling system operating a private individual data integration protection system comprising a processor receiving a query, submitted electronically, involving a request about private individual data and parsing elements the query, the processor correlating the query with private indi",
+      "ipc": [
+        "G06F16/2457",
+        "G06F16/242",
+        "G06F16/29",
+        "G06F16/9537"
+      ],
+      "score": 0.7346
+    },
+    {
+      "rank": 8,
+      "lens_id": "131-603-524-086-662",
+      "title": "HETEROGENEOUS COMPUTATION AND HIERARCHICAL MEMORY IMAGE SENSING PIPELINE",
+      "abstract": "A system on a chip, including a first domain having a first processor, a first local memory coupled to the first processor, wherein the first local memory having a first memory format and a first sub-network coupled to the first processor, a second domain having a second processor, a second local me",
+      "ipc": [
+        "G06F3/06",
+        "G06F13/28",
+        "G06F13/40",
+        "G06T1/20",
+        "G06T1/60"
+      ],
+      "score": 0.7295
+    },
+    {
+      "rank": 9,
+      "lens_id": "127-246-452-690-838",
+      "title": "FLEXIBLE ACCELERATOR FOR SPARSE TENSORS IN CONVOLUTIONAL NEURAL NETWORKS",
+      "abstract": "An apparatus includes a tensor compute cluster having a plurality of tensor compute units to process a plurality of sub-feature maps in a machine learning application and a tensor memory cluster having a plurality of tensor feature map memory units to store the plurality of sub-feature maps. The app",
+      "ipc": [
+        "G06N3/063",
+        "G06N3/04",
+        "G06N3/08"
+      ],
+      "score": 0.7276
+    },
+    {
+      "rank": 10,
+      "lens_id": "094-401-942-899-919",
+      "title": "Systems and methods for determining price bands and user price affinity predictions using machine learning architectures and techniques",
+      "abstract": "Systems and methods including one or more processors and one or more non-transitory storage devices storing computing instructions configured to run on the one or more processors and perform acts of: providing a machine learning architecture that is configured to evaluate expensiveness of items rela",
+      "ipc": [
+        "G06Q30/00",
+        "G06F16/9538",
+        "G06N20/00",
+        "G06Q30/0251",
+        "G06Q30/0283",
+        "G06Q30/0601"
+      ],
+      "score": 0.7263
+    }
+  ]
+}

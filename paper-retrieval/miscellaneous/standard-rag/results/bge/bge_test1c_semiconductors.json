@@ -1,0 +1,145 @@
+{
+  "system": "bge",
+  "query_file": "test1c_semiconductors.txt",
+  "index_time_ms": 1.9,
+  "query_time_ms": 0.16,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "138-137-705-954-552",
+      "title": "NANOSHEET CHANNEL-TO-SOURCE AND DRAIN ISOLATION",
+      "abstract": "A method and structures are used to fabricate a nanosheet semiconductor device. Nanosheet fins including nanosheet stacks including alternating silicon (Si) layers and silicon germanium (SiGe) layers are formed on a substrate and etched to define a first end and a second end along a first axis betwe",
+      "ipc": [
+        "H01L29/66",
+        "H01L21/311",
+        "H01L21/762",
+        "H01L29/06",
+        "H01L29/08",
+        "H01L29/417",
+        "H01L29/423",
+        "H01L29/775",
+        "H01L29/78",
+        "H01L29/786"
+      ],
+      "score": 0.8216
+    },
+    {
+      "rank": 2,
+      "lens_id": "151-296-593-543-132",
+      "title": "Gate spacer and inner spacer formation for nanosheet transistors having relatively small space between gates",
+      "abstract": "Embodiments of the invention are directed to method of fabricating a semiconductor device. A non-limiting embodiment of the method includes performing fabrication operations to form a nanosheet field effect transistor (FET) device on a substrate, wherein the fabrication operations include forming ga",
+      "ipc": [
+        "H01L29/66",
+        "H01L29/06",
+        "H01L29/78"
+      ],
+      "score": 0.8003
+    },
+    {
+      "rank": 3,
+      "lens_id": "180-792-297-457-55X",
+      "title": "FIELD EFFECT TRANSISTOR CONSTRUCTIONS AND MEMORY ARRAYS",
+      "abstract": "In some embodiments, a transistor includes a stack having a bottom source/drain region, a first insulative material, a conductive gate, a second insulative material, and a top source/drain region. The stack has a vertical sidewall with a bottom portion along the bottom source/drain region, a middle ",
+      "ipc": [
+        "H01L29/78",
+        "H10B10/00",
+        "H01L21/336",
+        "H10B12/00",
+        "H10B69/00",
+        "H10B99/00"
+      ],
+      "score": 0.7659
+    },
+    {
+      "rank": 4,
+      "lens_id": "138-596-053-161-225",
+      "title": "Transistor layout for semiconductor integrated circuit",
+      "abstract": "A semiconductor integrated circuit comprising a MOSFET having a metal wiring layer formed via an insulating film above and along the gate electrode of the MOSFET. The MOSFET is structured such that its channel length is small or channel width is large, and an input signal is applied from at least bo",
+      "ipc": [
+        "H01L27/105"
+      ],
+      "score": 0.7607
+    },
+    {
+      "rank": 5,
+      "lens_id": "107-181-590-823-678",
+      "title": "NANOWIRE TRANSISTOR WITH UNDERLAYER ETCH STOPS",
+      "abstract": "A nanowire device of the present description may be produced with the incorporation of at least one underlayer etch stop formed during the fabrication of at least one nanowire transistor in order to assist in protecting source structures and/or drain structures from damage that may result from fabri",
+      "ipc": [
+        "H01L29/78",
+        "H01L21/336"
+      ],
+      "score": 0.7458
+    },
+    {
+      "rank": 6,
+      "lens_id": "074-241-837-680-979",
+      "title": "HEMT DEVICES WITH REDUCED SIZE AND HIGH ALIGNMENT TOLERANCE",
+      "abstract": "A High Electron Mobility Transistor (HEMT) includes a source, a drain, a channel layer extending between the source and the drain, a barrier layer formed in contact with the channel layer, and extending between the source and the drain, and a gate formed in contact with, and covering at least a port",
+      "ipc": [
+        "H01L29/778",
+        "H01L29/10",
+        "H01L29/40",
+        "H01L29/66"
+      ],
+      "score": 0.7273
+    },
+    {
+      "rank": 7,
+      "lens_id": "027-645-922-786-862",
+      "title": "INTEGRATION METHODS TO FABRICATE INTERNAL SPACERS FOR NANOWIRE DEVICES",
+      "abstract": "A nanowire device having a plurality of internal spacers and a method for forming said internal spacers are disclosed. In an embodiment, a semiconductor device comprises a nanowire stack disposed above a substrate, the nanowire stack having a plurality of vertically-stacked nanowires, a gate structu",
+      "ipc": [
+        "H01L29/78",
+        "B82Y40/00",
+        "B82Y99/00",
+        "H01L21/336"
+      ],
+      "score": 0.726
+    },
+    {
+      "rank": 8,
+      "lens_id": "001-155-115-229-538",
+      "title": "Gate-All-Around Structure and Methods of Forming the Same",
+      "abstract": "Semiconductor device and the manufacturing method thereof are disclosed herein. An exemplary method comprises forming a fin over a substrate, wherein the fin comprises a first semiconductor layer and a second semiconductor layer including different semiconductor materials, and the fin comprises a ch",
+      "ipc": [
+        "H01L29/786",
+        "H01L21/02",
+        "H01L21/306",
+        "H01L29/06",
+        "H01L29/423",
+        "H01L29/66"
+      ],
+      "score": 0.7227
+    },
+    {
+      "rank": 9,
+      "lens_id": "106-796-780-426-037",
+      "title": "Gate-all-around structure and methods of forming the same",
+      "abstract": "Semiconductor device and the manufacturing method thereof are disclosed herein. An exemplary method comprises forming a fin over a substrate, wherein the fin comprises a first semiconductor layer and a second semiconductor layer including different semiconductor materials, and the fin comprises a ch",
+      "ipc": [
+        "H01L29/786",
+        "H01L21/02",
+        "H01L21/306",
+        "H01L29/06",
+        "H01L29/423",
+        "H01L29/66"
+      ],
+      "score": 0.7227
+    },
+    {
+      "rank": 10,
+      "lens_id": "133-703-115-126-29X",
+      "title": "INTEGRATED CIRCUIT",
+      "abstract": "Various embodiments describe an integrated circuit. The integrated circuit includes at least seven planar field effect transistors provided in a common substrate next to one another with a maximum feature size in accordance with a technology node of a maximum of 65 nm. Each field effect transistor o",
+      "ipc": [
+        "H01L23/00",
+        "H01L27/02",
+        "H01L27/092",
+        "H03K19/003"
+      ],
+      "score": 0.716
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+google-genai
+pypdf
+pillow
+pillow-heif
+imageio-ffmpeg
+docx2pdf
+numpy
+ijson

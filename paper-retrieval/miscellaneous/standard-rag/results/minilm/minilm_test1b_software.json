@@ -1,0 +1,133 @@
+{
+  "system": "minilm",
+  "query_file": "test1b_software.txt",
+  "index_time_ms": 3.9,
+  "query_time_ms": 1.84,
+  "top_k": 10,
+  "results": [
+    {
+      "rank": 1,
+      "lens_id": "099-251-564-736-493",
+      "title": "Distributed Adversarial Training for Robust Deep Neural Networks",
+      "abstract": "Scalable distributed adversarial training techniques for robust deep neural networks are provided. In one aspect, a method for adversarial training of a deep neural network-based model by distributed computing machines M includes, by distributed computing machines M: obtaining adversarial perturbati",
+      "ipc": [
+        "G06N3/08",
+        "G06N3/04"
+      ],
+      "score": 0.5985
+    },
+    {
+      "rank": 2,
+      "lens_id": "185-208-606-974-910",
+      "title": "Method for improving ciphertext calculation efficiency through distributed learning based on homomorphic encryption",
+      "abstract": "The invention discloses a method for improving ciphertext calculation efficiency based on homomorphic encryption distributed learning. The method comprises the following steps: step 1, each federal learning local end can establish communication with a global end through an uplink data communication ",
+      "ipc": [
+        "G06N20/00",
+        "H04L9/00"
+      ],
+      "score": 0.5969
+    },
+    {
+      "rank": 3,
+      "lens_id": "094-736-996-149-288",
+      "title": "A lightweight privacy protection ViT reasoning framework based on secret sharing",
+      "abstract": "The invention revealed a framework of light-weight privacy protection ViT reasoning based on secret sharing, including embedded layers, taxonomy layers and Transform encoders, where the embedded layers are used to segment incoming images, to create additional position code information and classes to",
+      "ipc": [
+        "G06V10/96",
+        "G06F21/62",
+        "G06N3/0455",
+        "G06N5/043",
+        "G06V10/44",
+        "G06V10/764",
+        "G06V10/82",
+        "G06V10/94",
+        "H04L9/08",
+        "H04L9/40"
+      ],
+      "score": 0.5237
+    },
+    {
+      "rank": 4,
+      "lens_id": "171-639-588-674-362",
+      "title": "EFFICIENT DATABASE MACHING LEARNING VERIFICATION",
+      "abstract": "An example operation may include one or more of generating, by a training participant client comprising a training dataset, a plurality of transaction proposals that each correspond to a training iteration for machine learning model training related to stochastic gradient descent, the machine learni",
+      "ipc": [
+        "G06F16/27",
+        "G06F21/62",
+        "G06F21/64",
+        "G06N20/00"
+      ],
+      "score": 0.5216
+    },
+    {
+      "rank": 5,
+      "lens_id": "019-841-670-180-714",
+      "title": "Machine Learning Training Device",
+      "abstract": "A machine learning training device having a clustering device configured to group machine learning training requests into a consolidated training block. The clustering device includes an isomorphism engine and an energy estimator configured to construct the consolidated training block based upon an ",
+      "ipc": [
+        "G06N20/00",
+        "G06K9/62"
+      ],
+      "score": 0.5099
+    },
+    {
+      "rank": 6,
+      "lens_id": "185-671-024-796-83X",
+      "title": "SYSTEM FOR SECURE OBFUSCATION OF ELECTRONIC DATA WITH DATA FORMAT PRESERVATION",
+      "abstract": "Embodiments of the invention are directed to systems, methods, and computer program products for utilizing machine learning to identify data which is to be obfuscated in a format-preserving manner, which allows the obfuscated or masked data to appear as though it is original data. Because this type ",
+      "ipc": [
+        "G06F21/62",
+        "G06N5/04",
+        "G06N20/00"
+      ],
+      "score": 0.4784
+    },
+    {
+      "rank": 7,
+      "lens_id": "039-280-787-398-395",
+      "title": "Distributed computing system for benefits processing using patient-centric profiling and machine learning",
+      "abstract": "A computing system enables individuals and organizations to self-insure a benefit, e.g., a dental plan benefit. The system leverages a patient-centric data construct that evolves in a multi-dimensional manner as a patient continuously interacts with the system, its providers, participating organizat",
+      "ipc": [
+        "G06Q40/08",
+        "G06N20/00",
+        "G06Q10/10",
+        "G16H10/60"
+      ],
+      "score": 0.4711
+    },
+    {
+      "rank": 8,
+      "lens_id": "026-834-191-619-441",
+      "title": "METHOD FOR SECURE TRANSACTION BY MASKING SENSITIVE DATA TRANSMITTED OVER A NETWORK",
+      "abstract": "The present invention discloses a method of processing a data transfer request securely over a network, the method comprising the steps of obtaining, by a first entity, a first token associated with sensitive data received from a user; associating the first token with a token reference and storing t",
+      "ipc": [
+        "H04L29/06"
+      ],
+      "score": 0.4662
+    },
+    {
+      "rank": 9,
+      "lens_id": "155-800-071-487-124",
+      "title": "Valid database machine learning validation",
+      "abstract": "Examples may include one or more of the following: multi-service proposals are generated by the training participants ' client, including the training set, each of which corresponds to the training iterative for machine learning model training related to a random gradient decline, the machine learni",
+      "ipc": [
+        "G06F16/27",
+        "G06F21/62",
+        "G06F21/64",
+        "G06N20/00"
+      ],
+      "score": 0.4588
+    },
+    {
+      "rank": 10,
+      "lens_id": "121-224-892-755-599",
+      "title": "Protection of neural networks by obfuscation of neural network architecture",
+      "abstract": "Aspects of the present disclosure involve implementations that may be used to protect neural network models against adversarial attacks by obfuscating neural network operations and architecture. Obfuscation techniques include obfuscating weights and biases of neural network nodes, obfuscating activa",
+      "ipc": [
+        "G06F21/14",
+        "G06N3/02"
+      ],
+      "score": 0.4477
+    }
+  ]
+}
